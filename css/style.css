@@ -814,15 +814,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 10px;
 }
 
-#committees .sci .tab-content ul {
-  overflow: hidden;
-}
-
-#committees .sci .tab-content ul li {
-  width: 50%;
-  float: left;
-}
-
 /*--------------------------------------------------------------
 # Speakers Section
 --------------------------------------------------------------*/
@@ -1275,7 +1266,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-right: 20px;
 }
 
-#faq #faq-list i {
+#faq #faq-list a i {
   font-size: 24px;
   position: absolute;
   right: 0;
