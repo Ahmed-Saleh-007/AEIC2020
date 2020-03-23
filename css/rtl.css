@@ -73,11 +73,11 @@ html,body ,h1,h2,h3,h4,h5,h6, a {
   transition: all ease-in-out 0.3s;
 }
 
-#buy-tickets .tab-pane .card .card-price {
+#fees .tab-pane .card .card-price {
   direction: ltr;
 }
 
-#buy-tickets .tab-pane .card .card-price del:before {
+#fees .tab-pane .card .card-price del:before {
   bottom: 18px;
 }
 
