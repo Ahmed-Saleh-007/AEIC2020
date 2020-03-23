@@ -1,0 +1,87 @@
+/*
+  Name: AEIC
+  URL: http://azhar-aeic.com/
+  Author: Ahmed Saleh
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+html,body ,h1,h2,h3,h4,h5,h6, a {
+  font-family: 'Cairo', sans-serif !important;
+}
+
+/*--------------------------------------------------------------
+# fix rtl errors
+--------------------------------------------------------------*/
+
+.owl-stage-outer {
+  position:relative;
+  overflow:hidden;
+  transform:translate3d(0,0,0);
+  direction: ltr;
+}
+
+.owl-dots {
+  direction: ltr;
+}
+
+.fa-li {
+  right: -2.14285714em;
+}
+
+#committees .tab-content ul span {
+  float: left;
+}
+
+#faq #faq-list a i {
+  right: auto;
+  left: 0;
+}
+
+#faq #faq-list a {
+  padding-right: 0;
+}
+
+#nav-menu-container {
+  float: left;
+}
+
+.nav-menu > li {
+  float: right !important;
+}
+
+.sf-arrows .sf-with-ul {
+  padding-right: 0;
+  padding-left: 30px;
+}
+
+.sf-arrows .sf-with-ul:after {
+  right: 30px;
+}
+
+#schedule .schedule-item .speaker {
+  float: right !important;
+  margin: 0 0 10px 10px !important;
+}
+
+#schedule .schedule-item .speaker img {
+  height: 100%;
+  transform: translateX(50%) !important;
+  margin-right: 50% !important;
+  transition: all ease-in-out 0.3s;
+}
+
+#buy-tickets .tab-pane .card .card-price {
+  direction: ltr;
+}
+
+#buy-tickets .tab-pane .card .card-price del:before {
+  bottom: 18px;
+}
+
+#footer .footer-top .footer-links ul i {
+  margin-right: 0 ;
+  margin-left: 5px;
+}

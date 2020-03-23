@@ -142,7 +142,6 @@ jQuery(document).ready(function( $ ) {
     modal.find('#ticket-type').val(ticketType);
   })
 
-  // custom code
 
   //add active class for nav li on scroll
 
@@ -179,6 +178,16 @@ $(window).on('load', function () {
         });
     });
     
+});
+
+//copy email address
+
+var clipboard = new ClipboardJS('.clone');
+
+$('.clone').click(function () {
+  $('.tooltiptext').text('Copied');
+}).mouseleave(function () {
+  $('.tooltiptext').text('Copy');
 });
 
 // count down function

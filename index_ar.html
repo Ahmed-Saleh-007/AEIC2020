@@ -27,69 +27,14 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 
-  <style>
-    html,body ,h1,h2,h3,h4,h5,h6, a{
-			font-family: 'Cairo', sans-serif !important;
-		}
-    .owl-stage-outer{
-        position:relative;
-        overflow:hidden;
-        transform:translate3d(0,0,0);
-        direction: ltr;
-    }
-    .fa-li {
-      right: -2.14285714em;
-    }
-    #committees .tab-content ul span {
-      float: left;
-    }
-    #faq #faq-list a i{
-      right: auto;
-      left: 0;
-    }
-    #faq #faq-list a{
-      padding-right: 0;
-    }
-    #nav-menu-container{
-      float: left;
-    }
-    .nav-menu > li{
-      float: right !important;
-    }
-    .sf-arrows .sf-with-ul {
-      padding-right: 0;
-      padding-left: 30px;
-    }
-    .sf-arrows .sf-with-ul:after {
-      right: 30px;
-    }
-    #schedule .schedule-item .speaker {
-      float: right !important;
-      margin: 0 0 10px 10px !important;
-    }
-    #schedule .schedule-item .speaker img {
-      height: 100%;
-      transform: translateX(50%) !important;
-      margin-right: 50% !important;
-      transition: all ease-in-out 0.3s;
-    }
-    #buy-tickets .tab-pane .card .card-price {
-      direction: ltr;
-    }
-    #buy-tickets .tab-pane .card .card-price del:before {
-      bottom: 18px;
-    }
-    #footer .footer-top .footer-links ul i {
-      margin-right: 0 ;
-      margin-left: 5px;
-    }
-    </style>
+  <!-- rtl Stylesheet File -->
+  <link href="css/rtl.css" rel="stylesheet">
+
 
   <!-- =======================================================
-    Theme Name: 
-    Theme URL: 
-    Author: 
-    License: 
+    Name: AEIC
+    URL: http://azhar-aeic.com/
+    Author: Ahmed Saleh
   ======================================================= -->
 </head>
 
@@ -1228,6 +1173,8 @@
         <a href="img/gallery/pic11.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/pic11.jpg" alt=""></a>
         <a href="img/gallery/pic12.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/pic12.jpg" alt=""></a>
         <a href="img/gallery/pic13.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/pic13.jpg" alt=""></a>
+        <a href="img/gallery/pic14.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/pic14.jpg" alt=""></a>
+        <a href="img/gallery/pic15.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/pic15.jpg" alt=""></a>
       </div>
 
     </section>
@@ -1694,8 +1641,20 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>الايميلات</h4>
             <ul>
-              <li>لرفع الاوراق: <br> <i class="fa fa-envelope-o"></i> <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg </a></li>
-              <li>للاستفسارات: <br> <i class="fa fa-envelope-o"></i> <a href="mailto:aeiconf2020@gmail.com">aeiconf2020@gmail.com </a></li>
+              <li>لرفع الاوراق: <br>
+                <a id='paper' href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg </a>
+                <span class="btn clone" data-clipboard-action="copy" data-clipboard-target="#paper">
+                  <i class="fa fa-clone"></i>
+                  <span class="tooltiptext" id="myTooltip">Copy</span>
+                </span>
+              </li>
+              <li>للاستفسارات: <br>
+                <a id='info' href="mailto:aeiconf2020@gmail.com">aeiconf2020@gmail.com </a>
+                <span class="btn clone" data-clipboard-action="copy" data-clipboard-target="#info">
+                  <i class="fa fa-clone"></i>
+                  <span class="tooltiptext" id="myTooltip">Copy</span>
+                </span>
+              </li>
             </ul>
           </div>
 
@@ -1764,6 +1723,7 @@
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/typed.min.js"></script>
   <script src="lib/jquery.nicescroll.min.js"></script>
+  <script src="lib/clipboard.min.js"></script>
 
   <!-- Contact Form JavaScript File -->
   <script src="contactform/contactform.js"></script>

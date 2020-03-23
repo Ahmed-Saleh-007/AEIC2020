@@ -1,8 +1,7 @@
 /*
-  Theme Name: TheEvent
-  Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
+  Name: AEIC
+  URL: http://azhar-aeic.com/
+  Author: Ahmed Saleh
 */
 
 /*--------------------------------------------------------------
@@ -1673,14 +1672,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
-#footer .footer-top .footer-links ul i {
-  margin-right: 5px;
-  color: #f82249;
-  font-size: 18px;
-  width: 20px;
-  text-align: center;
-}
-
 #footer .footer-top .footer-links ul li {
   border-bottom: 1px solid #262c44;
   padding: 10px 0;
@@ -1696,6 +1687,52 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul a:hover {
   color: #f82249;
+}
+
+#footer .footer-top .footer-links ul i {
+  margin-right: 5px;
+  color: #f82249;
+  font-size: 18px;
+  width: 20px;
+  text-align: center;
+}
+
+#footer .footer-top .footer-links ul span {
+  padding: 0;
+  margin: 0 5px;
+  position: relative;
+}
+
+#footer .footer-top .footer-links ul span .tooltiptext {
+  width: 70px;
+  background-color: #222636;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 130%;
+  left: 50%;
+  margin-left: -35px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+#footer .footer-top .footer-links ul span .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #222636 transparent transparent transparent;
+}
+
+#footer .footer-top .footer-links ul span:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
 }
 
 #footer .footer-top .footer-contact {
