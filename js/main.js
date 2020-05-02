@@ -31,6 +31,10 @@ jQuery(document).ready(function( $ ) {
     $('#intro').css({ height: $(window).height() });
   }
 
+  $(window).resize(function () {
+    $('#intro').css({ height: $(window).height() });
+  });
+
   // Initiate the wowjs animation library
   new WOW().init();
 
@@ -153,6 +157,18 @@ jQuery(document).ready(function( $ ) {
             $('.nav-menu li a[href = #' + blockID + ']').parent('li').addClass('menu-active');
         }
     });
+  });
+
+  if ($(window).height() < 500) {
+    $('.play-btn').hide();
+  }
+
+  $(window).resize(function () {
+    if ($(window).height() < 500) {
+      $('.play-btn').hide();
+    } else {
+      $('.play-btn').show();
+    }
   });
   
   $("html").niceScroll({

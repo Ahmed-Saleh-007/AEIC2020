@@ -1016,11 +1016,11 @@
         </div>
 
         <div class="row no-gutters">
-          <div class="col-lg-6 venue-map">
+          <div class="col-md-6 venue-map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13820.578078754284!2d31.4018639!3d30.0040064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7c900fed87c09521!2sTriumph%20Luxury%20Hotel!5e0!3m2!1sen!2seg!4v1584478296852!5m2!1sen!2seg" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
 
-          <div class="col-lg-6 venue-info">
+          <div class="col-md-6 venue-info">
             <div class="row justify-content-center">
               <div class="col-11 col-lg-8">
                 <h3>Triumph Luxury Hotel, 5th Settlement, Cairo</h3>
@@ -1035,7 +1035,7 @@
       <div class="container-fluid venue-gallery-container">
         <div class="row no-gutters">
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-md-3 col-sm-6">
             <div class="venue-gallery">
               <a href="img/venue-gallery/1.jpg" class="venobox" data-gall="venue-gallery">
                 <img src="img/venue-gallery/1.jpg" alt="" class="img-fluid">
@@ -1043,7 +1043,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-md-3 col-sm-6">
             <div class="venue-gallery">
               <a href="img/venue-gallery/2.jpg" class="venobox" data-gall="venue-gallery">
                 <img src="img/venue-gallery/2.jpg" alt="" class="img-fluid">
@@ -1051,7 +1051,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-md-3 col-sm-6">
             <div class="venue-gallery">
               <a href="img/venue-gallery/3.jpg" class="venobox" data-gall="venue-gallery">
                 <img src="img/venue-gallery/3.jpg" alt="" class="img-fluid">
@@ -1059,7 +1059,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-4">
+          <div class="col-md-3 col-sm-6">
             <div class="venue-gallery">
               <a href="img/venue-gallery/4.jpg" class="venobox" data-gall="venue-gallery">
                 <img src="img/venue-gallery/4.jpg" alt="" class="img-fluid">

@@ -1785,25 +1785,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Responsive Media Queries
 --------------------------------------------------------------*/
 
-@media (min-width: 767px) {
-  #subscribe input {
-    min-width: 400px;
-  }
-}
-
-@media (min-width: 768px) {
-  #contact .contact-address,
-  #contact .contact-phone,
-  #contact .contact-email {
-    padding: 20px 0;
-  }
-
-  #contact .contact-phone {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-  }
-}
-
 @media (min-width: 991px) {
   #schedule .sub-heading {
     width: 75%;
@@ -1818,10 +1799,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   #about {
     background-attachment: fixed;
   }
-
-  #subscribe {
-    background-attachment: fixed;
-  }
+  
 }
 
 @media (max-width: 1199px) {
@@ -1833,6 +1811,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 8px 3px;
     font-size: 12px;
   }
+
+  #about .container {
+    max-width: 90%;
+  }
+
 }
 
 @media (max-width: 991px) {
@@ -1884,15 +1867,43 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 767px) {
+  #about h2 {
+    margin-top: 20px;
+  }
+  
   #schedule .nav-tabs a {
     padding: 8px 50px;
   }
 }
 
-@media (max-width: 574px) {
+@media (max-width: 575px) {
+  #intro h1 {
+    font-size: 26px;
+  }
+
+  #committees ul li span {
+    float: none !important;
+  }
+
+  #about h2 {
+    font-size: 28px;
+  }
+
+  .section-header h2 {
+    font-size: 28px;
+  }
+
+  .section-header p {
+    font-size: 16px;
+  }
+
   #venue .venue-info h3 {
     font-size: 24px;
   }
+
+  #venue .venue-gallery a, #venue .venue-gallery a img {
+    width: 100%;
+  } 
 }
 
 @media (max-width: 480px) {
