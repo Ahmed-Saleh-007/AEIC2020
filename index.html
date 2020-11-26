@@ -44,7 +44,7 @@
       <div id="logo" class="pull-left">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
-        <a href="#intro" class="scrollto"><img src="img/AEIC_logo/v02.jpg" alt="" title=""><span class='logo-txt'></span></a>
+        <a href="#intro" class="scrollto"><img src="img/AEIC_logo/v002.jpg" alt="" title=""><span class='logo-txt'></span></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -94,7 +94,7 @@
       </div>
       <a href="https://www.youtube.com/watch?v=vUoYmmRPt3Q" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a>
-      <a href="#about" class="about-btn scrollto">About The Event</a>
+      <a href="#about" class="about-btn scrollto">About the Conference</a>
     </div>
   </section>
 
@@ -107,24 +107,23 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="img/conf-home.jpg" alt="" title="">
+            <img class="mb-4" src="img/conf-home2.png" alt="" title="">
+            <h6><i class='fa fa-map-marker'></i> Triumph Luxury Hotel, 5th Settlement, Cairo.</h6>
+            <h6><i class='fa fa-calendar'></i> Saturday to Monday 13-15 March, 2021.</h6>
           </div>
           <div class="col-md-8">
             <h2>About The Conference</h2>
             <p>
-              Al-Azhar is one of the oldest famous mosques
-              and universities all over the world. It was 
-              established more than one thousand years
-              ago (970-972 AD), therefore, it is the 
-             oldest in Cairo. Studying sections were 
-             assigned inside Al-Azhar mosque since 
-             it was established. Recently, a new sector 
-             has been introduced into Al Azhar University implying Engineering since 1964. 
-             Al Azhar Engineering International Conference (AEIC) started since 1989 to be
-              held regularly. Uniquely, the conference 
+              Under the auspices of Prof. <span>Dr. Ahmed Al-Tayeb</span>, 
+              the Grand Imam of Al-Azhar al-Sharif and under the aegis of Prof. 
+              <span>Dr. Mohammed Al-Mahrasawi</span>, 
+              the President of Al-Azhar University. The Faculty of Engineering will hold its fifteenth bi-annual conference. 
+              Since the scientific research has the utmost importance in the fields of engineering, and industry; the professors of the Faculty of Engineering have taken a vow since the first conference took place in 1989 to hold Al-Azhar International Engineering Conference (AEIC) every two years. And this is the fifteenth conference will conduct on March 13, 2021. entitled "The Holistic Engineering" Towards the Achievement of Egypt 2030 Vision. 
+              AEIC is a major forum for the presentation of innovative ideas, approaches, developments, and research projects in multiple fields of engineering and complementary studies like engineering mathematics.
+              AEIC serves to facilitate the exchange of information between researchers and industry professionals to discuss the latest issues and advancement in the field of engineering innovations. In addition, the conference will have multiple plenary sessions to bring together researchers and scientists from different fields.
+              Therefore, researchers are invited to contribute to the conference by participating in original research that contributes to developing the fields of applied engineering.
             </p>
-            <h5><i class='fa fa-map-marker'></i> Triumph Luxury Hotel, 5th Settlement, Cairo, Egypt</h5>
-            <h5><i class='fa fa-calendar'></i> Saturday to Monday 12-14 December, 2020</h5>
+            
           </div>
         </div>
       </div>
@@ -142,32 +141,33 @@
         </div>
         <div>
           <ul class="nav nav-tabs">
-            <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#systems_computers">Computers Eng.</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical">Electrical Eng.</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#civil">Civil Eng.</a></li>
+            <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#civil">Civil Eng.</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#mechanical">Mechanical Eng.</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#architecture">Architecture Eng.</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning">Planning Eng.</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum">Petroleum Eng.</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical">Electrical Eng.</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum">Mining &amp; Petroleum Eng.</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#architecture">Architectural Eng.</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning">Urban Planning Eng.</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#systems_computers">Systems &amp; Computers Eng.</a></li>
+			      <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#math">Mathematics and Physics Eng.</a></li>
           </ul>
         
           <div class="tab-content">
-            <div id="systems_computers" class="tab-pane fade in active show">
-              <h5>Systems & Computers Engineering:</h5>
+            <div id="systems_computers" class="tab-pane fade in">
+              <h5>Systems and Computers Engineering (<span class="subject-code">SCE</span>):</h5>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-right"></i>Computer Networks</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Software Engineering</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>AI: Health-Education-Government</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Control Engineering</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Computer Engineering</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Internet of Things</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Computer Networks (<span class="subject-code">SCE01</span>)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Software Engineering (<span class="subject-code">SCE02</span>)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Artificial Intelligence (<span class="subject-code">SCE03</span>)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Control Engineering (<span class="subject-code">SCE04</span>)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Computer Engineering (<span class="subject-code">SCE05</span>)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Internet of Things (<span class="subject-code">SCE06</span>)</li>
               </ul>
             </div>
 
             <div id="elctrical" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>Electrical Power Engineering:</h5>
+                  <h5>Electrical Power Engineering (<span class="subject-code">Elec01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Smart Grids and Their Applications</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Power Systems Performance and Reliability Enhancing Techniques</li>
@@ -178,7 +178,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Electronics and Communications:</h5>
+                  <h5>Electronics and Communications (<span class="subject-code">Elec02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Broadband Communications</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Wireless, Mobile, And Optical Communication Networks</li>
@@ -190,10 +190,10 @@
               </div>
             </div>
             
-            <div id="civil" class="tab-pane fade in">
+            <div id="civil" class="tab-pane fade in active show">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>Structural Engineering:</h5>
+                  <h5>Structural Engineering (<span class="subject-code">Civi01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>High Buildings</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Earthquake Engineering</li>
@@ -206,7 +206,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Road and Transportation Engineering:</h5>
+                  <h5>Road and Transportation Engineering (<span class="subject-code">Civi02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Traffic and Transportation Engineering</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Transportation Planning</li>
@@ -218,7 +218,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Water and Environmental Engineering:</h5>
+                  <h5>Water and Environmental Engineering (<span class="subject-code">Civi03</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Water and Sanitation Networks</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Desalination Plants</li>
@@ -228,7 +228,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Geotechnical Engineering:</h5>
+                  <h5>Geotechnical Engineering (<span class="subject-code">Civi04</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Soil Improvement</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Surface and Deep Foundations</li>
@@ -237,24 +237,32 @@
                     <li><i class="fa-li fa fa-arrow-right"></i>Soil Dynamics and Seismicity</li>
                   </ul>
                 </div>
+                 <div class="col-md-6">
+                  <h5>Surveying and Geomatic Engineering (<span class="subject-code">Civi05</span>):</h5>
+                  <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-arrow-right"></i>Geodetic Surveying & Networks Adjustment and Earth Observations & Astronomy and Artificial Satellites.</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>Photogrammetry and Unmanned Aerial Systems.</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>Remote Sensing and Geographic Information System.</li>
+                   </ul>
+                </div>
               </div>
             </div>
 
             <div id="mechanical" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>Production Engineering:</h5>
+                  <h5>Production Engineering (<span class="subject-code">Mech01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Nano Material Science</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Mechanics and Mechatronics</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Stress Analysis and Fracture Mechanics</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Industrial Engineering</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Non-Conventional Machining</li>
-                    <li><i class="fa-li fa fa-arrow-right"></i>Biomedical Engineering</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>BioMedical Engineering</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Power Engineering:</h5>
+                  <h5>Power Engineering (<span class="subject-code">Mech02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Broadband Communications</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Internal and External Combustion</li>
@@ -268,16 +276,16 @@
             <div id="architecture" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>Technology and Innovation:</h5>
+                  <h5>Technology and Innovation (<span class="subject-code">Arch01</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-right"></i>Energy performance and energy-efficient buildings</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>Energy performance and energy efficient buildings</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Sustainability, resilience and smart cities</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Integrated BIM solutions for buildings</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Quality of building use</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Conservation and Regeneration:</h5>
+                  <h5>Conservation and Regeneration (<span class="subject-code">Arch02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Adaptive use of historical buildings</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Renovation of historic buildings</li>
@@ -286,16 +294,16 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>New Trends in Architecture:</h5>
+                  <h5>New Trends in Architecture (<span class="subject-code">Arch03</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Building design and assessment methods</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Construction and building technology</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Community, space and public participation</li>
-                    <li><i class="fa-li fa fa-arrow-right"></i>Life cycle, operation, and maintenance of buildings</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>Life cycle, operation and maintenance of buildings</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>Architectural Education:</h5>
+                  <h5>Architectural Education (<span class="subject-code">Arch04</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>History and theory of architecture</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Design studio</li>
@@ -308,17 +316,28 @@
 
             <div id="planning" class="tab-pane fade in">
               <div class="row">
-                <div class="col-md-12">
-                  <h5>Planning Engineering:</h5>
+                <div class="col-md-6">
+                  <h5> Urban Planning and sustainability (<span class="subject-code">Plan01</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-right"></i>Building sustainable and resilient cities in developing countries.</li>
+                    <li><i class="fa-li fa fa-arrow-right"></i>Building sustainable and resilient cities in the developing countries.</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Characteristics of resilient cities</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Governance and decentralization in the future cities</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Methods of promoting the local identity in future cities</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Forming our cities through new systems of transportation</li>
+                  </ul>
+                </div>
+				        <div class="col-md-6">
+                  <h5>Urban Design (<span class="subject-code">Plan02</span>):</h5>
+                  <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Who will design the city of the future?</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>New approaches for more interactive green areas</li>
+                  </ul>
+                </div>
+				        <div class="col-md-6">
+                  <h5>Regional Planning and Development (<span class="subject-code">Plan03</span>):</h5>
+                  <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Regional compatibility on the borders of countries</li>
+					          <li><i class="fa-li fa fa-arrow-right"></i>New trends of regional development planning</li>
                   </ul>
                 </div>
               </div>
@@ -327,7 +346,7 @@
             <div id="petroleum" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>PETROLEUM ENGINEERING:</h5>
+                  <h5>Petroleum Engineering (<span class="subject-code">Pet.&amp;Min01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Petroleum Refining Engineering</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Fuel Technology</li>
@@ -344,7 +363,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>METALLURGICAL AND MINING ENGINEERING:</h5>
+                  <h5>Metallurgical and Mining Engineering (<span class="subject-code">Pet.&amp;Min02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-right"></i>Advanced Materials</li>
                     <li><i class="fa-li fa fa-arrow-right"></i>Extractive Metallurgy</li>
@@ -363,6 +382,16 @@
               </div>
             </div>
 
+            <div id="math" class="tab-pane fade in">
+              <h5>	Mathematics and Physics Engineering (<span class="subject-code">Mth.&amp;Phy</span>):</h5>
+              <ul class="fa-ul">
+                <li><i class="fa-li fa fa-arrow-right"></i>Mathematical modeling systems and applications(Mth.&amp;Phy01)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Control theory and optimization (Mth.&amp;Phy02)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Adaptive Solutions techniques (Mth.&amp;Phy03)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Nuclear structure and nuclear technology (Mth.&amp;Phy04)</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Engineering Physics Applications (Mth.&amp;Phy05)</li>
+              </ul>
+            </div>
 
 
           </div>
@@ -380,6 +409,25 @@
           <h2>Conference Committees</h2>
           <p>Here are some of Conference Committees</p>
         </div>
+
+        <div class="chairmans">
+          <div class="row">
+            <div class="col-md-4 text-center">
+              <h5>Conference Chairman</h5>
+              <p>Prof. Ayman M.  Tayel <br> Dean of the College</p>
+            </div>
+            <div class="col-md-4 text-center">
+              <h5>Conference Co-Chairman</h5>
+              <p>Prof. Mohamed Abdel Aziz<br>Vice Dean for Graduate Studies and Research</p>
+            </div>
+            <div class="col-md-4 text-center">
+              <h5>Conference Secretary</h5>
+              <p>Prof. Hussein Abbas <br> Professor - Faculty of Engineering - Al-Azhar University</p>
+            </div>
+          </div>
+        </div>
+
+
         <div>
           <ul class="nav nav-tabs">
             <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#scientific">Scientific</a></li>
@@ -388,50 +436,41 @@
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#technical_support">Technical Support</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#public_relations">Public Relations</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#arrangements">Arrangements</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#financial">Financial</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#marketing">Marketing</a></li>
+            <!-- <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#financial">Financial</a></li> -->
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#marketing">Financial & Marketing</a></li>
           </ul>
         
           <div class="tab-content">
 
             <div id="scientific" class="sci tab-pane fade in active show">
-              <div class="row">
-                <div class="col-md-4">
-                  <h5>Conference Chairman</h5>
-                  <p>Prof. Ayman M.  Tayel <br> Dean of the College</p>
-                </div>
-                <div class="col-md-4">
-                  <h5>Conference Co-Chairman</h5>
-                  <p>Prof. Mohamed Abdel Aziz<br>Vice Dean for Graduate Studies</p>
-                </div>
-                <div class="col-md-4">
-                  <h5>Conference Secretary</h5>
-                  <p>Prof. Hussein Abbas <br> Professor of  Structure Engineering</p>
-                </div>
+              <div class="text-center">
+                <h5 style="color: #f82249;">General Coordinator of Scientific Committees</h5>
+                <p>Prof. Ibrahim Mabrouk  <br>Faculty of Engineering - Al-Azhar University</p>
               </div>
-              <h5>Scientific Committee:</h5>
               <div>
                 <ul class="nav nav-tabs">
-                  <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#systems_computers_in">Computers Eng.</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical_in">Electrical Eng.</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#civil_in">Civil Eng.</a></li>
+                  <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#civil_in">Civil Eng.</a></li>
                   <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#mechanical_in">Mechanical Eng.</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical_in">Electrical Eng.</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum_in">Petroleum Eng.</a></li>
                   <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#architecture_in">Architecture Eng.</a></li>
                   <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning_in">Planning Eng.</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum_in">Petroleum Eng.</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#systems_computers_in">Computers Eng.</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#math_in">Mathematics and Physics Eng.</a></li>
                 </ul>
 
                 <div class="tab-content">
-                  <div id="systems_computers_in" class="tab-pane fade in active show">
+                  <div id="systems_computers_in" class="tab-pane fade in">
                     <h5>Systems & Computers Engineering:</h5>
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Muhammad Zaki Abdul Majeed <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Shehab Ahmed Gamal El Din <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Dr. AshrafEl Marakby <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Tozammel Hossain <span>USA</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr.Mostafa El-Nanaey <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Muhammad Zaki Abdul Majeed <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohamed Ashraf Madkour <span>Egypt</span></li>
+						              <li><i class="fa-li fa fa-arrow-right"></i>Prof. Sayed Abd ALHady  Nouh <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Tozammel Hossain <span>USA</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mostafa El-Nanaey <span>Egypt </span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Dr. Ashraf El-Marakby <span>Egypt</span></li>
                         </ul>
                       </div>
                     </div>
@@ -443,29 +482,29 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Abdel Hady A. Ammar <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Mohamed Bakry El-Mashad <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Harald Weber <span>Germany</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr.  Al-Saeed Othman <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Mohamed A Mehanna <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Octavia A. Dobre <span>Canda</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abdel Hady A. Ammar <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Al-Saeed Othman <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohamed B. El-Mashad <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Harald Weber <span>Germany</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohamed A Mehanna <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Dr. Ibrahim Nassar <span>Egypt</span></li>
                         </ul>
                       </div>
                     </div>
                     
                   </div>
 
-                  <div id="civil_in" class="tab-pane fade in">
+                  <div id="civil_in" class="tab-pane fade in active show">
                     <h5>Civil Engineering:</h5>
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Hussein M. Abbas <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Abdullah H. Wahdan <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Anas M. Abul-Ula <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Osama Fathi M. Mohamed <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abdalla H. Wahdan <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mostafa Kotb <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Anas M. Abulela <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Osama Fathi <span>Egypt</span></li>
                           <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mahmoud Reda Taha <span>USA</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. mohamed.meguid <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohamed Abdallah  <span>Canada</span></li>
                         </ul>
                       </div>
                     </div>
@@ -477,11 +516,12 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Nabil Kamal Fathallah <span>Egypt</span></li>
                           <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mahmoud Abdel-Fattah El-Kady <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Mohamed M. Ismail Hamouda <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohammed Ismail Hammouda <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohsen M. Ahmed Abdelaal<span>Egypt</span></li>
                           <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mohamed Farag <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Ehab Abdel Rahman <span>Canada</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Ehab Abdel Rahman  <span>Canada</span></li>
+						              <li><i class="fa-li fa fa-arrow-right"></i>Dr. Mostafa Ali Mohamed<span>Egypt</span></li>
                         </ul>
                       </div>
                     </div>
@@ -493,11 +533,12 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Zakaria Al-Dars <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mostafa Adly Baghdady <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Ahmed Al-Kurdi <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Salah Zaki Said <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Zakaria Al-Dars <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Mostafa Adli Baghdadi <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Ahmed Al-Kurdi <span>Egypt</span></li>
                           <li><i class="fa-li fa fa-arrow-right"></i>Prof. Ashraf Salama <span>UK</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Nafin Hamza <span>UK</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Nevine Hamza <span>UK</span></li>
                         </ul>
                       </div>
                     </div>
@@ -509,12 +550,12 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Atef Hamza Hassan <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Hassanin M. Abu Zaid <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Essam M. Abdel-Aziz <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Ethen Stelser <span>USA</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abbas Al-Zaafrani <span>Egypt</span></li>
-                        </ul>    
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Atef Hamza Hassan <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Hassanin M. Abu Zaid <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Essam Abdel-Salam <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Ethen Stelser <span>USA</span></li>
+						              <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abbas M. Al-Zafrani <span>Egypt</span></li>
+                        </ul>
                       </div>
                     </div>
                     
@@ -525,14 +566,29 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Abdel Hadi M. Saleh <span>Egypt</span></li>
-                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Dr. Nour Ahmed M. Al-Imam <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abdel Wahab Abdel Hamid Bayoumi <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Nour Ahmed M. Al-Imam <span>Egypt</span></li>
+                          <li><i class="fa-li fa fa-arrow-right"></i>Prof. Abdel Hady M. Saleh <span>Egypt</span></li>
                           <li><i class="fa-li fa fa-arrow-right"></i>Dr. Amir Mahdi <span>Egypt</span></li>
                         </ul>
                       </div>
                     </div>
                     
                   </div>
+
+                  <div id="math_in" class="tab-pane fade in">
+                    <h5>Mathematics and Physics Eng:</h5>
+                    <div class="row">
+                      <div class="col-lg-6">
+                        <ul class="fa-ul">
+						              <li><i class="fa-li fa fa-arrow-right"></i>Prof. Al-Saeed Othman <span>Egypt</span></li>
+						              <li><i class="fa-li fa fa-arrow-right"></i>Dr. Mahmoud Farag Elgabry<span>Egypt</span></li>
+                        </ul>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  
 
                 </div>
 
@@ -560,7 +616,7 @@
                 <li><i class="fa-li fa fa-arrow-right"></i>Dr. Ahmed Mohamed Yassin Abdullah</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Prof. Bakr Hashem Bayoumi</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Dr. Tariq Mahmoud Al-Saeed</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Eng. Abdul Rahman Halawa</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Eng. Abdelrahman Samir Halawa</li>
               </ul>
             </div>
             
@@ -568,7 +624,7 @@
               <h5>Technical Support Committee</h5>
               <h6>Members:</h6>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-right"></i>Dr. Khaled Ahmed Al-Shafei</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Dr. Ali Abdelraouf Mohammad</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Eng. Mohammed Abdul Karim Attia</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Eng. Ahmed Shoukry Mahmoud</li>
               </ul>
@@ -595,18 +651,18 @@
               </ul>
             </div>
 
-            <div id="financial" class="tab-pane fade in">
+          <!--   <div id="financial" class="tab-pane fade in">
               <h5>Financial Committee</h5>
               <h6>Members:</h6>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-right"></i>د. احمد محمد يس عبد الله </li>
-                <li><i class="fa-li fa fa-arrow-right"></i>د. نادر عبدالخالق</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>م. مصطفى السيد محمد حسانين</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Dr. Ahmed Mohamed Yassen </li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Dr. Nader Abdelkhalek</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Eng. Mustafa Elsayed Mohamed</li>
               </ul>
-            </div>
+            </div> -->
 
             <div id="marketing" class="tab-pane fade in">
-              <h5>The Marketing and Exhibitions Committee</h5>
+              <h5>Financial and Marketing Committee</h5>
               <h6>Members:</h6>
               <ul class="fa-ul">
                 <li><i class="fa-li fa fa-arrow-right"></i>Dr.Ahmed Mohamed Yassin Abdullah</li>
@@ -614,6 +670,8 @@
                 <li><i class="fa-li fa fa-arrow-right"></i>Eng. Mostafa El-Sayed Mohamed Hassanein</li>
               </ul>
             </div> 
+            
+            
 
           </div>
         </div>
@@ -742,18 +800,31 @@
           <div class="col-lg-6 col-md-8">
             <h5>Here important dates you should know: </h5>
             <ul class="fa-ul">
-              <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: March 2020</li>
-              <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 1/6/2020</li>
-              <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 1/7/2020</li>
-              <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 1/9/2020</li>
-              <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 1/10/2020</li>
-              <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 12-14 December 2020</li>
+              <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020 <a href="/Paper Template Download.docx"> [Paper Template Download] </a> <br/> For submission, send mail to <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 25 Nov. 2020</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 5 Dec. 2020</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
             </ul>
           </div>
           <div class="col-lg-6 col-md-4" style="display: flex; justify-content: center; align-items: center;">
             <img src="img/calendar.png" alt="" style="height: 210px;">
           </div>
         </div>
+
+        <div class="note">
+          <ul class="fa-ul ml-0">
+            <li>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> Note to the participating engineers, it is necessary to write the code of the specialization through which the research is to be published.</p>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> Organizing committee has been decided to publish all papers (or selected outstanding papers) of the conference in the special issue, JAUES Open Access Journal: Journal of Al-Azhar University Engineering Sector, which is part of the Egyptian Knowledge Bank (EKB) and indexed on Supreme Council of Universities (SCU).</p>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> For the safety of all participants, the organizing committee has decided to broadcast the conference on ZOOM virtual platform for those who have difficulties to attend.</p>
+
+            </li>
+          </ul>
+
+        </div>
+
         <div style="display: none;">
           <ul class="nav nav-tabs" role="tablist">
             <li class="nav-item">
@@ -1274,12 +1345,12 @@
                   <a data-toggle="collapse" href="#faq2" class="collapsed">What are the Conference key dates? <i class="fa fa-minus-circle"></i></a>
                   <div id="faq2" class="collapse" data-parent="#faq-list">
                     <ul class="fa-ul">
-                      <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: March 2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 1/6/2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 1/7/2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 1/9/2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 1/10/2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 12-14 December 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 25 Nov. 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 5 Dec. 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
                     </ul>
                   </div>
                 </li>
@@ -1372,7 +1443,7 @@
                           <span class="amount">2500LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1393,7 +1464,7 @@
                 <div class="col-lg-4">
                   <div class="card mb-5 mb-lg-0">
                     <div class="card-body">
-                      <h5 class="card-title text-muted text-uppercase text-center">Listeners</h5>
+                      <h5 class="card-title text-muted text-uppercase text-center">PARTICIPANTS</h5>
                       <h6 class="card-price text-center">
                         <ins>
                           <span class="amount">900LE</span>
@@ -1402,7 +1473,7 @@
                           <span class="amount">1250LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1433,7 +1504,7 @@
                           <span class="amount">900LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1472,7 +1543,7 @@
                           <span class="amount">&#36;750</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1493,7 +1564,7 @@
                 <div class="col-lg-4">
                   <div class="card mb-5 mb-lg-0">
                     <div class="card-body">
-                      <h5 class="card-title text-muted text-uppercase text-center">Listeners</h5>
+                      <h5 class="card-title text-muted text-uppercase text-center">PARTICIPANTS</h5>
                       <h6 class="card-price text-center">
                         <ins>
                           <span class="amount">&#36;250</span>
@@ -1502,7 +1573,7 @@
                           <span class="amount">&#36;300</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1533,7 +1604,7 @@
                           <span class="amount">&#36;250</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1613,7 +1684,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <img src="img/AEIC_logo/v02.jpg" alt="TheEvenet">
+            <img src="img/AEIC_logo/v002.jpg" alt="TheConf">
             <p>
               The Holistic Engineering: Towards the Achievement of Egypt 2030 Vision.
             </p>
@@ -1622,7 +1693,7 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Number List</h4>
             <ul>
-              <li><i class="fa fa-mobile"></i> <a href="tel:+201005358392">+201005358392</a></li>
+              <li><i class="fa fa-mobile"></i> <a href="tel:+201022076566">+201022076566</a></li>
               <li><i class="fa fa-phone"></i> <a href="tel:+20223868020">+20223868020</a></li>
               <li><i class="fa fa-fax"></i> <a href="tel:+20223868023">+20223868023</a></li>
             </ul>
@@ -1717,17 +1788,16 @@
   <script src="lib/jquery.nicescroll.min.js"></script>
   <script src="lib/clipboard.min.js"></script>
 
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
   <script>
     var type = new Typed('.type', {
       strings: [
-        "The Holistic Engineering: Towards the Achievement of Egypt 2030 Vision",
+        "<span style='color:#f82249'>*Note</span> the acceptance of abstracts will be extended until <span class='change-color'>December 11, 2020</span>",
+        /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> Triumph Hotel, 5th Settlement, Cairo, Egypt",
         "<i class='fa fa-calendar' style='color:#f82249'></i> Saturday to Monday 12-14 December, 2020",
+        */
       ],
       stringsElement: null,
       // typing speed
@@ -1737,7 +1807,7 @@
       // backspacing speed
       backSpeed: 0,
       // time before backspacing
-      backDelay: 3000,
+      backDelay: 5000,
       // loop
       loop: true,
       // false = infinite

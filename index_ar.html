@@ -49,7 +49,7 @@
       <div id="logo" class="pull-right">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
-        <a href="#intro" class="scrollto"><img src="img/AEIC_logo/v02.jpg" alt="" title=""><span class='logo-txt'></span></a>
+        <a href="#intro" class="scrollto"><img src="img/AEIC_logo/v002.jpg" alt="" title=""><span class='logo-txt'></span></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -112,24 +112,19 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="img/conf-home.jpg" alt="" title="">
+            <img class="mb-4" src="img/conf-home2.png" alt="" title="">
+            <h6><i class='fa fa-map-marker'></i> فندق تريومف ليكشري - التجمع الخامس - القاهره </h6>
+            <h6><i class='fa fa-calendar'></i> من السبت إلي الإثنين 13-15 مارس 2021</h6>
           </div>
           <div class="col-md-8">
             <h2>عن المؤتمر</h2>
-            <p>
-              الأزهر جامعٌ وجامعة أنشئ  فى الفترة 970 ـ 972م  منذ 
-              أكثر من ألف عام، وهو أقدم جامع  بنى فى مدينة القاهرة، 
-              وسُمّى تيمنا باسم فاطمة الزهراء إبنة رسول الله صلى الله  
-              عليه وسلم، كما تم تأسيس جامعة داخل المسجد كجزء 
-              من مدرسة المسجد منذ إنشائه، وفى إطار تطوير الأزهر 
-              افتتحت بعض الكليات العملية ومنها كلية الهندسة عام
-               1964م. وذلك للاهتمام بالعلوم التطبيقية بجانب العلوم 
-              الإسلامية والإنسانية، ويُعقد مؤتمر الأزهر الهندسى الدولى 
-              دوريًا بدءًا من عام 1989م حيث يُعقد المؤتمر القادم بإذن الله 
-              فى 12 ـ 14 ديسمبر 2020م
-            </p>
-            <h5><i class='fa fa-map-marker'></i> فندق تريومف ليكشري - التجمع الخامس - القاهره - مصر</h5>
-            <h5><i class='fa fa-calendar'></i> من السبت الي الاثنين 12- 14 ديسمبر 2020</h5>
+            <p>برعاية كريمة من فضيلة الإمام الأستاذ الدكتور <span>أحمد الطيب </span>شيخ الأزهر الشريف والأستاذ الدكتور <span>محمد المحرصاوي </span>رئيس جامعة الأزهر ستعقد كلية الهندسة مؤتمرها الخامس عشر.
+              ولما كان للبحث العلمي من أهمية قصوى في مجالات الهندسة والصناعة. تعهد أساتذة كلية الهندسة منذ انعقاد المؤتمر الأول عام 1989 بعقد مؤتمر الأزهر الدولي الهندسي بصفة دائمة. وهذا هو المؤتمر الخامس عشر الذي سيعقد في 20 فبراير 2021. بعنوان: الهندسة الشاملة: نحو تحقيق رؤية مصر 2030.
+              مؤتمر الأزهر الدولي الهندسي هو منتدى رئيسي لعرض الأفكار والنهج والتطورات والمشاريع البحثية المبتكرة في مجالات هندسية متعددة وكذلك الدراسات التكميلية مثل الرياضيات الهندسية.
+              يعمل مؤتمر الأزهر الدولي الهندسي على تسهيل تبادل المعلومات بين الباحثين والمتخصصين في الصناعة لمناقشة أحدث القضايا والتقدم في مجال الابتكارات الهندسية. بالإضافة إلى ذلك، سيعقد المؤتمر عدة جلسات عامة للجمع بين الباحثين والعلماء من مجالات مختلفة، وستعقد مثل هذه الجلسات العامة خلال المؤتمر.
+              لذا، فإن الباحثين مدعوون للمساهمة في المؤتمر من خلال المشاركة بأبحاث أصيلة تساهم في تطوير مجالات الهندسة التطبيقية.
+              
+              </p>
           </div>
 
         </div>
@@ -148,32 +143,33 @@
         </div>
         <div>
           <ul class="nav nav-tabs">
-            <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#systems_computers">هندسه الحاسبات</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical">الهندسه الكهربيه</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#civil">الهندسه المدنيه</a></li>
+            <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#civil">الهندسه المدنيه</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#mechanical">الهندسه الميكانيكيه</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical">الهندسه الكهربيه</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum">هندسه التعدين والبترول</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#architecture">الهندسه المعماريه</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning">هندسه التخطيط</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum">هندسه البترول</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning">هندسه التخطيط العمرانى</a></li>
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#systems_computers">هندسه النظم و الحاسبات</a></li>
+			      <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#math">هندسة الرياضة والفيزياء</a></li>
           </ul>
         
           <div class="tab-content">
-            <div id="systems_computers" class="tab-pane fade in active show">
-              <h5>هندسة النظم والحاسبات:</h5>
+            <div id="systems_computers" class="tab-pane fade in">
+              <h5>هندسة النظم والحاسبات (<span class="subject-code">SCE</span>):</h5>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-left"></i>شبكات الحاسب</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>هندسة البرمجيات</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>الذكاء الاصطناعي: صحة – تعليم – حكومة</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>هندسة التحكم الالي</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>هندسة العتاد</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>انترنت الأشياء</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>شبكات (<span class="subject-code">SCE01</span>)</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>هندسة البرمجيات (<span class="subject-code">SCE02</span>)</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>الذكاء الاصطناعي (<span class="subject-code">SCE03</span>)</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>هندسة التحكم الالي (<span class="subject-code">SCE04</span>)</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>هندسة العتاد (<span class="subject-code">SCE05</span>)</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>انترنت الأشياء (<span class="subject-code">SCE06</span>)</li>
               </ul>
             </div>
 
             <div id="elctrical" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>هندسه القوى والآلات الكهربية:</h5>
+                  <h5>هندسه القوى والآلات الكهربية (<span class="subject-code">Elec01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>نظم الشبكات الذكية وتطبيقاتها</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>تقنيات تحسين جودة وموثوقية نظام الطاقة</li>
@@ -184,7 +180,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>هندسه الإلكترونيات والاتصالات:</h5>
+                  <h5>هندسه الإلكترونيات والاتصالات (<span class="subject-code">Elec02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>الاتصالات واسعة النطاق</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>الاتصالات والشبكات المتنقلة واللاسلكية والبصرية</li>
@@ -196,10 +192,10 @@
               </div>
             </div>
             
-            <div id="civil" class="tab-pane fade in">
+            <div id="civil" class="tab-pane fade in active show">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>هندسة الانشاءات:</h5>
+                  <h5>هندسة الانشاءات (<span class="subject-code">Civi01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>المباني العالية</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>هندسة الزلازل</li>
@@ -212,7 +208,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>هندسة الطرق والمواصلات:</h5>
+                  <h5>هندسة الطرق والمواصلات (<span class="subject-code">Civi02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>هندسة المرور والنقل</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>تخطيط المواصلات</li>
@@ -224,7 +220,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>هندسة المياه والبيئة:</h5>
+                  <h5>هندسة المياه والبيئة (<span class="subject-code">Civi03</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>شبكات المياه والصرف الصحي</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>محطات التقنية والتحلية</li>
@@ -234,7 +230,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>الهندسة الجيوتقنية:</h5>
+                  <h5>الهندسة الجيوتقنية (<span class="subject-code">Civi04</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>تحسين التربة</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>الاساسات السطحية والعميقة</li>
@@ -243,13 +239,22 @@
                     <li><i class="fa-li fa fa-arrow-left"></i>ديناميكا وزلزالية التربة</li>
                   </ul>
                 </div>
+				        <div class="col-md-6">
+                  <h5>المساحة والهندسة الجيوماتيكية (<span class="subject-code">Civi05</span>):</h5>
+                  <ul class="fa-ul">
+                    <li><i class="fa-li fa fa-arrow-left"></i>المساحة الجيوديسية & ضبط الشبكات والأرصاد الأرضية (الجاذبية – الإنكسار - ...) & الفلك والأقمار الصناعية.</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>المساحة التصويرية ونظام التصوير بطائرات بدون طيار (ذاتية).</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>الاستشعار عن بعد ونظم المعلومات الجغرافية.</li>
+                   
+                  </ul>
+                </div>
               </div>
             </div>
 
             <div id="mechanical" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>هندسه الانتاج:</h5>
+                  <h5>هندسه الانتاج (<span class="subject-code">Mech01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>علم المواد المتناهية الصغر</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>علم الميكانيكا والميكاترونيات</li>
@@ -260,7 +265,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>هندسه القوي:</h5>
+                  <h5>هندسه القوي (<span class="subject-code">Mech02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>انتقال الحرارة والكتلة</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>الاحتراق الداخلي والخارجي</li>
@@ -274,39 +279,39 @@
             <div id="architecture" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>التكنولوجيا والابتكار:</h5>
+                  <h5>التكنولوجيا والابتكار (<span class="subject-code">Arch01</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>Energy performance and energy efficient buildings</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Sustainability, resilience and smart cities</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Integrated BIM solutions for buildings</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Quality of building use</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>أداء الطاقة والمباني الموفرة للطاقة</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>الاستدامة، والمرونة، والمدن الذكية</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>حلول BIM المتكاملة للمباني</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>جودة استخدام المبنى</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>الحمايه والتجديد:</h5>
+                  <h5>الحمايه والتجديد (<span class="subject-code">Arch02</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>Adaptive use of historical buildings</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Renovation of historic buildings</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Heritage and management</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Culture, society and future city visions</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>الاستخدام المتكيف للمباني التاريخية</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>ترميم المباني التاريخية</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>التراث والإدارة</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>الثقافة والمجتمع ورؤى المدن المستقبلية</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>الاتجاهات الجديدة في مجال العمارة:</h5>
+                  <h5>الاتجاهات الجديدة في مجال العمارة (<span class="subject-code">Arch03</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>Building design and assessment methods</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Construction and building technology</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Community, space and public participation</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Life cycle, operation and maintenance of buildings</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i> تصميم المباني وطرق التقييم</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>تكنولوجيا التشييد والبناء</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>المجتمع والفضاء والمشاركة العامة</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i> دورة حياة وتشغيل وصيانة المباني</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>التعليم المعماري:</h5>
+                  <h5>التعليم المعماري (<span class="subject-code">Arch04</span>):</h5>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>History and theory of architecture</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Design studio</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Design technology</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>Learning methods</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>تاريخ ونظرية العمارة</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>أستوديو التصميم</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i> تكنولوجيا التصميم</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>طرق التعلم</li>
                   </ul>
                 </div>
               </div>
@@ -315,16 +320,30 @@
             <div id="planning" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>هندسه التخطيط:</h5>
+                  <h5>التخطيط العمراني والاستدامة (<span class="subject-code">Plan01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>بناء مدن مرنة ومستدامة في الدول النامية</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>خصائص المدن المرنة</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>الحوكمة واللامركزية في مدن المستقبل</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>طرق تعزيز الهوية المحلية في مدن المستقبل</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>تشكيل مدننا من خلال أنظمة النقل الجيد</li>
+               
+                  </ul>
+                </div>
+				        <div class="col-md-6">
+                  <h5>التصميم العمرانى (<span class="subject-code">Plan02</span>):</h5>
+                  <ul class="fa-ul">
+                  
                     <li><i class="fa-li fa fa-arrow-left"></i>من الذي سوف يصمم مدن المستقبل؟</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>مداخل حديثة لمناطق خضراء أكثر تفاعلية</li>
+                  
+                  </ul>
+                </div>
+				        <div class="col-md-6">
+                  <h5>  التخطيط الإقليمي والتطوير (<span class="subject-code">Plan03</span>):</h5>
+                  <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>الاقاليم المتكاملة على أطراف الدول</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>الاتجاهات الحديثة لتخطيط التنمية الإقليمية</li>
                   </ul>
                 </div>
               </div>
@@ -333,7 +352,7 @@
             <div id="petroleum" class="tab-pane fade in">
               <div class="row">
                 <div class="col-md-6">
-                  <h5>هندسه البترول:</h5>
+                  <h5>هندسه البترول (<span class="subject-code">Pet.&amp;Min01</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>هندسة تكرير البترول</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>تكنولوجيا الوقود</li>
@@ -350,7 +369,7 @@
                   </ul>
                 </div>
                 <div class="col-md-6">
-                  <h5>هندسه التعدين:</h5>
+                  <h5>هندسه التعدين (<span class="subject-code">Pet.&amp;Min02</span>):</h5>
                   <ul class="fa-ul">
                     <li><i class="fa-li fa fa-arrow-left"></i>المواد المتقدمة</li>
                     <li><i class="fa-li fa fa-arrow-left"></i>استخلاص الفلزات</li>
@@ -369,6 +388,17 @@
               </div>
             </div>
 
+            <div id="math" class="tab-pane fade in">
+              <h5>هندسة الرياضة والفيزياء(<span class="subject-code">Mth.&amp;Phy</span>):</h5>
+               <ul class="fa-ul">
+                 <li><i class="fa-li fa fa-arrow-left"></i>نظم النمذجة الرياضية وتطبيقاتها (Mth.&amp;Phy01)</li>
+                 <li><i class="fa-li fa fa-arrow-left"></i>نظرية التحكم والتحسين (Mth.&amp;Phy02)</li>
+                 <li><i class="fa-li fa fa-arrow-left"></i>تقنيات الحلول التكيفية (Mth.&amp;Phy03)</li>
+                 <li><i class="fa-li fa fa-arrow-left"></i>التركيب النووي والتكنولوجيا النووية (Mth.&amp;Phy04)</li>
+                 <li><i class="fa-li fa fa-arrow-left"></i>تطبيقات الفيزياء الهندسية (Mth.&amp;Phy05)</li>
+               </ul>
+             </div>
+
           </div>
         </div>
       </div>
@@ -385,6 +415,24 @@
           <h2>لجان المؤتمر</h2>
           <p>بعض من لجان المؤتمر</p>
         </div>
+
+        <div class="chairmans">
+          <div class="row">
+            <div class="col-md-4 text-center">
+              <h5>رئيس المؤتمر</h5>
+              <p>ا.د. أيمن طايل <br>عميد الكلية</p>
+            </div>
+            <div class="col-md-4 text-center">
+              <h5>مقرر المؤتمر  </h5>
+              <p>ا.د. محمد عبد العزيز<br>وكيل الكلية للدراسات العليا والبحث</p>
+            </div>
+            <div class="col-md-4 text-center">
+              <h5>سكرتير المؤتمر</h5>
+              <p>ا.د. حسين عباس<br> أستاذ - كلية الهندسة – جامعة الأزهر</p>
+            </div>
+          </div>
+        </div>
+
         <div>
           <ul class="nav nav-tabs">
             <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#scientific">اللجنه العلميه</a></li>
@@ -393,50 +441,42 @@
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#technical_support">لجنه الدعم الفني</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#public_relations">لجنه العلاقات العامة</a></li>
             <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#arrangements">لجنه الترتيبات</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#financial">اللجنه المالية</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#marketing">لجنه التسويق</a></li>
+            <!--<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#financial">اللجنه المالية</a></li>-->
+            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#marketing">اللجنة المالية والتسويق والمعارض</a></li>
           </ul>
         
           <div class="tab-content">
 
             <div id="scientific" class="sci tab-pane fade in active show">
-              <div class="row">
-                <div class="col-md-4">
-                  <h5>Conference Chairman</h5>
-                  <p>Prof. Ayman M.  Tayel <br> Dean of the College</p>
-                </div>
-                <div class="col-md-4">
-                  <h5>Conference Co-Chairman</h5>
-                  <p>Prof. Mohamed Abdel Aziz<br>Vice Dean for Graduate Studies</p>
-                </div>
-                <div class="col-md-4">
-                  <h5>Conference Secretary</h5>
-                  <p>Prof. Hussein Abbas <br> Professor of  Structure Engineering</p>
-                </div>
+              <div class="text-center">
+                <h5 style="color: #f82249;">منسق عام اللجان العلمية </h5>
+                <p>أ.د إبراهيم مبروك إبراهيم <br>أستاذ متفرغ – كلية الهندسة – جامعة الأزهر</p>
               </div>
-              <h5>Scientific Committee:</h5>
+
               <div>
                 <ul class="nav nav-tabs">
-                  <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#systems_computers_in">هندسه الحاسبات</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical_in">الهندسه الكهربيه</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#civil_in">الهندسه المدنيه</a></li>
+                  <li class="nav-item"><a class="nav-link active show" data-toggle="tab" href="#civil_in">الهندسه المدنيه</a></li>
                   <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#mechanical_in">الهندسه الميكانيكيه</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#elctrical_in">الهندسه الكهربيه</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum_in">هندسه التعدين والبترول</a></li>
                   <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#architecture_in">الهندسه المعماريه</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning_in">هندسه التخطيط</a></li>
-                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#petroleum_in">هندسه البترول</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#planning_in">هندسه التخطيط العمرانى</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#systems_computers_in">هندسه النظم والحاسبات</a></li>
+                  <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#math_in">هندسة الرياضة والفيزياء</a></li>
                 </ul>
 
                 <div class="tab-content">
-                  <div id="systems_computers_in" class="tab-pane fade in active show">
+                  <div id="systems_computers_in" class="tab-pane fade in">
                     <h5>هندسة النظم والحاسبات:</h5>
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Muhammad Zaki Abdul Majeed <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Shehab Ahmed Gamal El Din <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Dr. AshrafEl Marakby <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Tozammel Hossain <span>امريكا</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr.Mostafa El-Nanaey <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد زكى عبد المجيد خير الله <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد اشرف مدكور <span>مصر</span></li>
+						              <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ سيد عبد الهادى عيد نوح <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د توزامل حسين  <span>أمريكا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ مصطفى النعناعي   <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م/ اشرف عبد الرحمن محمد المراكبى <span>مصر</span></li>
                         </ul>
                       </div>
                     </div>
@@ -448,29 +488,29 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Abdel Hady A. Ammar <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Mohamed Bakry El-Mashad <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Harald Weber <span>المانيا</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr.  Al-Saeed Othman <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Mohamed A Mehanna <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Octavia A. Dobre <span>كندا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عبد الهادى عبد العظيم محمود عمار <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ السعيد عثمان  <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد بكرى المشد  <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ هرالد ويبر <span>ألمانيا </span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد احمد احمد مهنى   <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م/ أبراهيم نصار  <span>مصر</span></li>
                         </ul>
                       </div>
                     </div>
                     
                   </div>
 
-                  <div id="civil_in" class="tab-pane fade in">
+                  <div id="civil_in" class="tab-pane fade in active show">
                     <h5>الهندسه المدنيه:</h5>
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Hussein M. Abbas <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Abdullah H. Wahdan <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Anas M. Abul-Ula <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Osama Fathi M. Mohamed <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Mahmoud Reda Taha <span>امريكا</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. mohamed.meguid <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عبدالله حسن إبراهيم وهدان   <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ مصطفى حسن قطب <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ أنس محمد أبوالعلا <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ أسامة فتحى محمود  <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمود رضا طه       <span>أمريكا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد عبد الله <span>كندا</span></li>
                         </ul>
                       </div>
                     </div>
@@ -482,11 +522,12 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Nabil Kamal Fathallah <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Mahmoud Abdel-Fattah El-Kady <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Mohamed M. Ismail Hamouda <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Mohamed Farag <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Ehab Abdel Rahman <span>كندا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمود عبدالفتاح القاضى <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد اسماعيل حمودة <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محسن محمد  عبد العال <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ محمد فرج<span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ ايهاب عبد الرحمن  <span>كندا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م/ مصطفي علي محمد <span>مصر</span></li>
                         </ul>
                       </div>
                     </div>
@@ -498,11 +539,12 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Zakaria Al-Dars <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Mostafa Adly Baghdady <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Ahmed Al-Kurdi <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Ashraf Salama <span>انجلترا</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Nafin Hamza <span>انجلترا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>.د/ صلاح زكي سعيد  <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ زكريا الدرس   <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ مصطفى عدلي مصطفى بغدادي<span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ أحمد الكردي  <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ أشرف سلامة   <span>المملكة المتحدة</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ نفين حمزة<span>المملكة المتحدة</span></li>
                         </ul>
                       </div>
                     </div>
@@ -514,11 +556,11 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Atef Hamza Hassan <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof.Dr. Hassanin M. Abu Zaid <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Essam M. Abdel-Aziz <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Ethen Stelser <span>امريكا</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Abbas Al-Zaafrani <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عاطف حمزه حسن   <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ حسانين ابوزيد <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عصام عبدالسلام <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ إيثن ستيلزر <span>أمريكا</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عباس محمد الزعفراني <span>مصر</span></li>
                         </ul>
                       </div>
                     </div>
@@ -530,14 +572,28 @@
                     <div class="row">
                       <div class="col-lg-6">
                         <ul class="fa-ul">
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Abdel Hadi M. Saleh <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Prof. Dr. Nour Ahmed M. Al-Imam <span>مصر</span></li>
-                          <li><i class="fa-li fa fa-arrow-left"></i>Dr. Amir Mahdi <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عبد الوهاب عبد الحميد بيومي<span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ نور احمد محمد الامام<span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ عبد الهادى محمد صالح <span>مصر</span></li>
+                          <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م/ أمير مهدي <span>مصر</span></li>
                         </ul>
                       </div>
                     </div>
                     
                   </div>
+
+                  <div id="math_in" class="tab-pane fade in">
+                    <h5>هندسة الرياضة والفيزياء:</h5>
+                     <div class="row">
+                       <div class="col-lg-6">
+                         <ul class="fa-ul">
+                         <li><i class="fa-li fa fa-arrow-left"></i>أ.د/ السعيد عثمان<span>مصر</span></li>
+                         <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م/ محمود فرج الجابري<span>مصر</span></li>
+                         </ul>
+                       </div>
+                     </div>
+                     
+                   </div>
 
                 </div>
 
@@ -549,10 +605,10 @@
               <h5>لجنة التسجيل</h5>
               <h6>الاعضاء:</h6>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>أ.د. عبد الرحيم قاسم قناوى</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>د. حسن سعد محمد </li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>م. هيثم محمود إبراهيم </li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>م. محمد عادل السيد</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>أ.د. عبد الرحيم قاسم قناوى  <span></span></li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>د. حسن سعد محمد  <span> </span></li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>م. هيثم محمود إبراهيم  <span></span></li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>م. محمد عادل السيد  <span></span></li>
                   </ul>
             </div>
 
@@ -560,12 +616,12 @@
               <h5>اللجنة الفنية:</h5>
               <h6>الاعضاء:</h6>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. وائل احمد شتا</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. صلاح عبد الغنى العيسوى </li>
-                <li><i class="fa-li fa fa-arrow-left"></i>د. احمد محمد يس عبد الله </li>
-                <li><i class="fa-li fa fa-arrow-left"></i>أ.د. بكر هاشم بيومى </li>
-                <li><i class="fa-li fa fa-arrow-left"></i>د. طارق محمود السعيد </li>
-                <li><i class="fa-li fa fa-arrow-left"></i>م. عبدالرحمن حلاوه</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. وائل احمد شتا  <span></span></li>
+            	  <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. صلاح عبد الغنى العيسوى  <span></span></li>
+                <li><i class="fa-li fa fa-arrow-left"></i>أ.د. م بكر هاشم بيومى  <span></span></li>
+                <li><i class="fa-li fa fa-arrow-left"></i>د. طارق محمود السعيد  <span></span></li>
+                <li><i class="fa-li fa fa-arrow-left"></i>د. احمد محمد يس عبد الله  <span></span></li>
+                <li><i class="fa-li fa fa-arrow-left"></i>م. عبدالرحمن سمير حلاوه <span></span></li>
               </ul>
             </div>
             
@@ -573,9 +629,9 @@
               <h5>لجنة الدعم الفني والتكنولوجي والإعلامي</h5>
               <h6>الاعضاء:</h6>
                   <ul class="fa-ul">
-                    <li><i class="fa-li fa fa-arrow-left"></i>د. خالد أحمد الشافعـــــــى</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>م. محمد عبد الكريم عطيـــــه</li>
-                    <li><i class="fa-li fa fa-arrow-left"></i>م. أحمد شكرى محمــــــــــود</li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>د. علي عبد الرءوف محمد حلاوة  <span></span></li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>م. محمد عبد الكريم عطيـــــه <span></span></li>
+                    <li><i class="fa-li fa fa-arrow-left"></i>م. أحمد شكرى محمــــــــــود<span></span></li>
                   </ul>
             </div>
 
@@ -594,12 +650,13 @@
               <h5>لجنة الترتيبات الداخلية والإقامة</h5>
               <h6>الاعضاء:</h6>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. طارق محمد ابو الفتوح</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>م. محمد على عثمان على عياد </li>
-                <li><i class="fa-li fa fa-arrow-left"></i>م. المعتز بالله محمد عبد الفتاح </li>
+                <li><i class="fa-li fa fa-arrow-left"></i>أ.د.م. طارق محمد ابو الفتوح <span></span></li>
+				        <li><i class="fa-li fa fa-arrow-left"></i>م. محمد على عثمان على عياد <span></span></li>
+				        <li><i class="fa-li fa fa-arrow-left"></i>م. المعتز بالله محمد عبد الفتاح <span></span></li>
               </ul>
             </div>
 
+            <!--
             <div id="financial" class="tab-pane fade in">
               <h5>اللجنة المالية</h5>
               <h6>الاعضاء:</h6>
@@ -609,14 +666,15 @@
                 <li><i class="fa-li fa fa-arrow-left"></i>م. مصطفى السيد محمد حسانين</li>
               </ul>
             </div>
+            -->
 
             <div id="marketing" class="tab-pane fade in">
               <h5>لجنة التسويق والمعارض </h5>
               <h6>الاعضاء:</h6>
               <ul class="fa-ul">
-                <li><i class="fa-li fa fa-arrow-left"></i>د. احمد محمد يس عبد الله</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>د. نادر عبدالخالق</li>
-                <li><i class="fa-li fa fa-arrow-left"></i>م. مصطفى السيد محمد حسانين</li>
+                <li><i class="fa-li fa fa-arrow-left"></i>د. احمد محمد يس عبد الله    <span></span></li>
+				        <li><i class="fa-li fa fa-arrow-left"></i>د. نادر عبدالخالق           <span></span></li>
+				        <li><i class="fa-li fa fa-arrow-left"></i>م. مصطفى السيد محمد حسانين <span></span></li>
               </ul>
             </div>
 
@@ -747,18 +805,31 @@
           <div class="col-md-6">
             <h5>هنا بعض التواريخ الهامه التي يجب معرفتها</h5>
             <ul class="fa-ul">
-              <li><i class="fa-li fa fa-arrow-left"></i>الإعلان الأول عن المؤتمر خلال شهر مارس 2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 1/6/2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 1/7/2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 1/9/2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 1/10/2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>موعد انعقاد المؤتمر 12 – 14 ديسمبر 2020</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>البدء إرسال الملخصات 15 أغسطس 2020 <a href="/Paper Template Download.docx">[تحميل نموذج ورقة البحث]</a> <br/>
+              لإرسال الورقه البحثية، ارسل إيميل إلى  <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
+                     
+              <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 25 نوفمبر 2020</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 5 ديسمبر 2020</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
+              <li><i class="fa-li fa fa-arrow-left"></i> موعد انعقاد المؤتمر 13-15 مارس 2021</li>
             </ul>
           </div>
           <div class="col-md-6" style="display: flex; justify-content: center; align-items: center;">
             <img src="img/calendar.png" alt="" style="height: 210px;">
           </div>
         </div>
+
+        <div class="note">
+          <ul class="fa-ul pr-0">
+            <li>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> تنوية، للسادة المهندسين المشاركين ضرورة كتابة كود التخصص المراد نشر البحث من خلاله.</p>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> قررت اللجنة المنظمة نشر كل الابحاث المقبولة (أو عدد من الابحاث المميزة) في المؤتمر في اصدار خاص من دورية مجلة القطاع الهندسي لجامعة الازهر المدرجة تحت بنك المعرفة المصري والمصنفة وفقاً لتقييم المجلس الاعلى للجامعات.</p>
+              <p><span><i class="fa fa-exclamation-triangle"></i></span> كإجراء احترازي قررت الجنة التنظيمية للمؤتمر بث جميع جلسات المؤتمر للمشاركين عبر تطبيق زووم وذلك لمن سيواجهه اي صعوبات في الحضور.</p>
+            </li>
+          </ul>
+        </div>  
+
         <div style="display: none;">
           <ul class="nav nav-tabs" role="tablist">
             <li class="nav-item">
@@ -1279,12 +1350,12 @@
                   <a data-toggle="collapse" href="#faq2" class="collapsed">ما هو موعد المؤتمر ومواعيد التقدم بالأبحاث ؟<i class="fa fa-minus-circle"></i></a>
                   <div id="faq2" class="collapse" data-parent="#faq-list">
                     <ul class="fa-ul">
-                      <li><i class="fa-li fa fa-arrow-left"></i>الإعلان الأول عن المؤتمر خلال شهر مارس 2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 1/6/2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 1/7/2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 1/9/2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 1/10/2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>موعد انعقاد المؤتمر 12 – 14 ديسمبر 2020</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>الإعلان الأول عن المؤتمر 15 أغسطس 2020   </li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 25 نوفمبر 2020</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 5 ديسمبر 2020</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>موعد انعقاد المؤتمر 13-15 مارس 2021</li>
                     </ul>
                   </div>
                 </li>
@@ -1379,7 +1450,7 @@
                           <span class="amount">2500LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1400,7 +1471,7 @@
                 <div class="col-lg-4">
                   <div class="card mb-5 mb-lg-0">
                     <div class="card-body">
-                      <h5 class="card-title text-muted text-uppercase text-center">محاضر</h5>
+                      <h5 class="card-title text-muted text-uppercase text-center">مشاركين</h5>
                       <h6 class="card-price text-center">
                         <ins>
                           <span class="amount">900LE</span>
@@ -1409,7 +1480,7 @@
                           <span class="amount">1250LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1440,7 +1511,7 @@
                           <span class="amount">900LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1479,7 +1550,7 @@
                           <span class="amount">&#36;750</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1500,7 +1571,7 @@
                 <div class="col-lg-4">
                   <div class="card mb-5 mb-lg-0">
                     <div class="card-body">
-                      <h5 class="card-title text-muted text-uppercase text-center">محاضر</h5>
+                      <h5 class="card-title text-muted text-uppercase text-center">مشاركين</h5>
                       <h6 class="card-price text-center">
                         <ins>
                           <span class="amount">&#36;250</span>
@@ -1509,7 +1580,7 @@
                           <span class="amount">&#36;300</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1540,7 +1611,7 @@
                           <span class="amount">&#36;250</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 1/9/2020</span></div>
+                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1622,7 +1693,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <img src="img/AEIC_logo/v02.jpg" alt="TheEvenet">
+            <img src="img/AEIC_logo/v002.jpg" alt="TheConf">
             <p>
               التكامل الهندسي: نحو تحقيق رؤية مصر 2030
             </p>
@@ -1631,7 +1702,7 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>ارقام التواصل</h4>
             <ul>
-              <li><i class="fa fa-mobile"></i> <a href="tel:+201005358392">+201005358392</a></li>
+              <li><i class="fa fa-mobile"></i> <a href="tel:+201022076566">+201022076566</a></li>
               <li><i class="fa fa-phone"></i> <a href="tel:+20223868020">+20223868020</a></li>
               <li><i class="fa fa-fax"></i> <a href="tel:+20223868023">+20223868023</a></li>
             </ul>
@@ -1724,17 +1795,16 @@
   <script src="lib/jquery.nicescroll.min.js"></script>
   <script src="lib/clipboard.min.js"></script>
 
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
   <script>
     var type = new Typed('.type', {
       strings: [
-        "التكامل الهندسي: نحو تحقيق رؤية مصر 2030",
+        "<span style='color:#f82249'>*تنوية،</span>  سيتم مد قبول ملخصات الابحاث الى <span class='change-color'>١١ ديسمبر ٢٠٢٠</span>",
+        /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> فندق تريومف - التجمع الخامس - القاهره - مصر",
         "<i class='fa fa-calendar' style='color:#f82249'></i> من السبت الي الاثنين 12- 14 ديسمبر 2020",
+        */
       ],
       stringsElement: null,
       // typing speed
@@ -1744,7 +1814,7 @@
       // backspacing speed
       backSpeed: 0,
       // time before backspacing
-      backDelay: 3000,
+      backDelay: 5000,
       // loop
       loop: true,
       // false = infinite

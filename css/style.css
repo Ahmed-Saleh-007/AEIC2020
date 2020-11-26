@@ -58,6 +58,10 @@ h6 {
   visibility: hidden;
 }
 
+.subject-code {
+  color: #f82249;
+}
+
 /* Prelaoder */
 
 #preloader {
@@ -536,6 +540,18 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin:0 auto;
 }
 
+#intro .type .change-color {
+  color: #060c22;
+  animation: change-color 1s linear infinite;
+}
+
+@keyframes change-color {  
+  50% 
+  { 
+    opacity: 0.4;
+  }
+}
+
 #intro .type::after, #intro .type::after {
   content: '|';
   display: inline;
@@ -730,20 +746,27 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
-#about h5 {
+#about h6 {
   color: #fff;
   margin-bottom: 10px;
 }
 
-#about h5 i {
+#about h6 i {
   color:#f82249;
 }
 
 #about p {
-  font-size: 14px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 13px;
   font-weight: 100;
   margin-bottom: 15px;
   color: #fff;
+}
+
+#about p span {
+  color: #f82249;
+  font-weight: bold;
 }
 
 #about img {
@@ -788,6 +811,29 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #committees {
   padding: 60px 0 30px 0;
+}
+
+#committees .chairmans {
+  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 60px;
+  border: 1px solid #0e1b4d30;
+}
+
+#committees .chairmans .row > div {
+  border-right: 1px solid #0e1b4d30;
+}
+
+#committees .chairmans .row > div:last-child {
+  border: none;
+}
+
+#committees .chairmans h5 {
+  color: #f82249;
+}
+
+#committees .chairmans p {
+  margin-bottom: 0;
 }
 
 #committees .nav-tabs .nav-item a{
@@ -922,6 +968,31 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #schedule {
   padding: 60px 0 60px 0;
+}
+
+#schedule .note {
+  margin-top: 40px;
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid #0e1b4d30;
+  /*animation: flash 5s linear infinite;*/
+}
+
+@keyframes flash {  
+  90% 
+  { 
+    border: 1px solid #112363;
+  }
+}
+
+#schedule .note p {
+  margin: 5px 0;
+  font-weight: 100;
+  letter-spacing: 0.25px;
+}
+
+#schedule .note p span {
+  color: #f8234a;
 }
 
 #schedule .nav-tabs {
