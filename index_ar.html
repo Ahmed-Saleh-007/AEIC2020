@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>AEIC 2020</title>
+  <title>AEIC 2021</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -420,7 +420,7 @@
           <div class="row">
             <div class="col-md-4 text-center">
               <h5>رئيس المؤتمر</h5>
-              <p>ا.د. أيمن طايل <br>عميد الكلية</p>
+              <p>ا.د. أيمن طايل <br>عميد كليه الهندسه</p>
             </div>
             <div class="col-md-4 text-center">
               <h5>مقرر المؤتمر  </h5>
@@ -808,8 +808,8 @@
               <li><i class="fa-li fa fa-arrow-left"></i>البدء إرسال الملخصات 15 أغسطس 2020 <a href="/Paper Template Download.docx">[تحميل نموذج ورقة البحث]</a> <br/>
               لإرسال الورقه البحثية، ارسل إيميل إلى  <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
                      
-              <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 25 نوفمبر 2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 5 ديسمبر 2020</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 11 ديسمبر 2020</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 17 ديسمبر 2020</li>
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
               <li><i class="fa-li fa fa-arrow-left"></i> موعد انعقاد المؤتمر 13-15 مارس 2021</li>
@@ -1351,8 +1351,8 @@
                   <div id="faq2" class="collapse" data-parent="#faq-list">
                     <ul class="fa-ul">
                       <li><i class="fa-li fa fa-arrow-left"></i>الإعلان الأول عن المؤتمر 15 أغسطس 2020   </li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 25 نوفمبر 2020</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 5 ديسمبر 2020</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 11 ديسمبر 2020</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 17 ديسمبر 2020</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>موعد انعقاد المؤتمر 13-15 مارس 2021</li>
@@ -1444,13 +1444,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">باحث</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">2000LE</span>
+                          <span class="amount">2500LE</span>
                         </ins>
                         <del>
-                          <span class="amount">2500LE</span>
+                          <span class="amount d-none">2500LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1474,13 +1474,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">مشاركين</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">900LE</span>
+                          <span class="amount">1250LE</span>
                         </ins>
                         <del>
-                          <span class="amount">1250LE</span>
+                          <span class="amount d-none">1250LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1505,13 +1505,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">طلبة الدراسات العليا</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">750LE</span>
+                          <span class="amount">900LE</span>
                         </ins>
                         <del>
-                          <span class="amount">900LE</span>
+                          <span class="amount d-none">900LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1544,13 +1544,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">باحث</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">	&#36;500</span>
+                          <span class="amount">	&#36;750</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;750</span>
+                          <span class="amount d-none">&#36;750</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1574,13 +1574,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">مشاركين</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">&#36;250</span>
+                          <span class="amount">&#36;300</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;300</span>
+                          <span class="amount d-none">&#36;300</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1605,13 +1605,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">طلبة الدراسات العليا</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">&#36;200</span>
+                          <span class="amount">&#36;250</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;250</span>
+                          <span class="amount d-none">&#36;250</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>هذا العرض ساري حتي 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>هذا العرض ساري حتي 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>إستقبال ترحيبي</li>
@@ -1662,10 +1662,11 @@
                 <li>أو التحويل علي الحساب المصرفي كما يلي:</li>
                 <ul>
                   <li>أسم الحساب : طاش لتنظيم المؤتمرات والمعارض</li>
-                  <li>أسم البنك : بنك عوده – فرع العباسية – القاهره - مصر</li>
+                  <li>أسم البنك : بنك عوده – القاهره - مصر</li>
                   <li>حساب رقم : 2922180001 بالجنيه المصري</li>
-                  <li>حساب رقم : 2922180003 بالدولار الأمريكي</li>
+                  <li>حساب رقم : 2922180002 بالدولار الأمريكي</li>
                   <li>سويفت كود: Audbegcaxxx</li>
+                  <li>IBAN NO.: EG110019002000000002922180002</li>
                 </ul>
                 <li>إمكانية الدفع من خلال فودافون كاش او فوري علي رقم  +2 01022076566</li>
               </ol>

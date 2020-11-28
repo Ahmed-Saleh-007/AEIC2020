@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>AEIC 2020</title>
+  <title>AEIC 2021</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -414,7 +414,7 @@
           <div class="row">
             <div class="col-md-4 text-center">
               <h5>Conference Chairman</h5>
-              <p>Prof. Ayman M.  Tayel <br> Dean of the College</p>
+              <p>Prof. Ayman M.  Tayel <br> Dean Faculty of Engineering</p>
             </div>
             <div class="col-md-4 text-center">
               <h5>Conference Co-Chairman</h5>
@@ -800,9 +800,9 @@
           <div class="col-lg-6 col-md-8">
             <h5>Here important dates you should know: </h5>
             <ul class="fa-ul">
-              <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020 <a href="/Paper Template Download.docx"> [Paper Template Download] </a> <br/> For submission, send mail to <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 25 Nov. 2020</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 5 Dec. 2020</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020 <a href="/Paper Template Download.docx"> [Paper Template Download] </a> <br/> For submission, send mail to <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 11 Dec. 2020</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 17 Dec. 2020</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
@@ -1346,8 +1346,8 @@
                   <div id="faq2" class="collapse" data-parent="#faq-list">
                     <ul class="fa-ul">
                       <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 25 Nov. 2020</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 5 Dec. 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 11 Dec. 2020</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 17 Dec. 2020</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
@@ -1437,13 +1437,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">Authors</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">2000LE</span>
+                          <span class="amount">2500LE</span>
                         </ins>
                         <del>
-                          <span class="amount">2500LE</span>
+                          <span class="amount d-none">2500LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1467,13 +1467,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">PARTICIPANTS</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">900LE</span>
+                          <span class="amount">1250LE</span>
                         </ins>
                         <del>
-                          <span class="amount">1250LE</span>
+                          <span class="amount d-none">1250LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1498,13 +1498,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">Students</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">750LE</span>
+                          <span class="amount">900LE</span>
                         </ins>
                         <del>
-                          <span class="amount">900LE</span>
+                          <span class="amount d-none">900LE</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1537,13 +1537,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">Authors</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">	&#36;500</span>
+                          <span class="amount">	&#36;750</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;750</span>
+                          <span class="amount d-none">&#36;750</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1567,13 +1567,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">PARTICIPANTS</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">&#36;250</span>
+                          <span class="amount">&#36;300</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;300</span>
+                          <span class="amount d-none">&#36;300</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1598,13 +1598,13 @@
                       <h5 class="card-title text-muted text-uppercase text-center">Students</h5>
                       <h6 class="card-price text-center">
                         <ins>
-                          <span class="amount">&#36;200</span>
+                          <span class="amount">&#36;250</span>
                         </ins>
                         <del>
-                          <span class="amount">&#36;250</span>
+                          <span class="amount d-none">&#36;250</span>
                         </del>
                       </h6>
-                      <div class="card-discount-info text-center"><span>This offer until 25/11/2020</span></div>
+                      <div class="card-discount-info text-center d-none"><span>This offer until 25/11/2020</span></div>
                       <hr>
                       <ul class="fa-ul">
                         <li><span class="fa-li"><i class="fa fa-check"></i></span>Welcome reception</li>
@@ -1653,9 +1653,10 @@
                 <li>Bank transfer</li>
                 <ul>
                   <li>Account Name: TASH for ORG. Conferences & Exhibitions</li>
-                  <li>Name of the Bank: Bank Audi, Abassia Branch Cairo, Egypt</li>
+                  <li>Name of the Bank: Bank Audi, Cairo, Egypt</li>
                   <li>Account Number EGP: 29 22 18 0001</li>
-                  <li>Account Number USD: 29 22 18 0003</li>
+                  <li>Account Number USD: 29 22 18 0002</li>
+                  <li>IBAN NO.: EG110019002000000002922180002</li>
                   <li>Swift Code: Audbegcaxxx</li>
                 </ul>
                 <li>VF-Cash transfer to Mob. No. : +2 010 220 765 66</li>
