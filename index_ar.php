@@ -805,13 +805,13 @@
           <div class="col-md-6">
             <h5>هنا بعض التواريخ الهامه التي يجب معرفتها</h5>
             <ul class="fa-ul">
-              <li><i class="fa-li fa fa-arrow-left"></i>البدء إرسال الملخصات 15 أغسطس 2020 <a href="/Paper Template Download.docx">[تحميل نموذج ورقة البحث]</a> <br/>
+              <li><i class="fa-li fa fa-arrow-left"></i>البدء إرسال الملخصات 15 أغسطس 2020 <a href="/نموذج ورقة بحثية باللغة العربية.docx">[تحميل نموذج ورقة البحث]</a> <br/>
               لإرسال الورقه البحثية، ارسل إيميل إلى  <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
                      
               <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 11 ديسمبر 2020</li>
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 17 ديسمبر 2020</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
-              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 30 يناير 2021</li>
+              <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 21 فبراير 2021</li>
               <li><i class="fa-li fa fa-arrow-left"></i> موعد انعقاد المؤتمر 13-15 مارس 2021</li>
             </ul>
           </div>
@@ -823,7 +823,8 @@
         <div class="note">
           <ul class="fa-ul pr-0">
             <li>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> تنوية، للسادة المهندسين المشاركين ضرورة كتابة كود التخصص المراد نشر البحث من خلاله.</p>
+      <p style="color: darkred;font-weight: bold;"><span><i class="fa fa-exclamation-triangle"></i></span> في ظل الانتشار العالمي للموجة الثانية من فيروس كورونا (COVID-19) ، ومن أجل سلامة جميع الحاضرين ، قررت اللجنة المنظمة لـ AEIC 2021 استضافة المؤتمر على منصة افتراضية.
+مع أطيب التحيات والآمال أن تكون  آمنا وبصحة جيدة في هذه الأوقات الصعبة.</p>
               <p><span><i class="fa fa-exclamation-triangle"></i></span> قررت اللجنة المنظمة نشر كل الابحاث المقبولة (أو عدد من الابحاث المميزة) في المؤتمر في اصدار خاص من دورية مجلة القطاع الهندسي لجامعة الازهر المدرجة تحت بنك المعرفة المصري والمصنفة وفقاً لتقييم المجلس الاعلى للجامعات.</p>
               <p><span><i class="fa fa-exclamation-triangle"></i></span> كإجراء احترازي قررت الجنة التنظيمية للمؤتمر بث جميع جلسات المؤتمر للمشاركين عبر تطبيق زووم وذلك لمن سيواجهه اي صعوبات في الحضور.</p>
             </li>
@@ -1354,7 +1355,7 @@
                       <li><i class="fa-li fa fa-arrow-left"></i>اخر موعد لارسال الملخصات 11 ديسمبر 2020</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 17 ديسمبر 2020</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 23 يناير 2021</li>
-                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 13 فبراير 2021</li>
+                      <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 21 فبراير 2021</li>
                       <li><i class="fa-li fa fa-arrow-left"></i>موعد انعقاد المؤتمر 13-15 مارس 2021</li>
                     </ul>
                   </div>
@@ -1801,7 +1802,7 @@
   <script>
     var type = new Typed('.type', {
       strings: [
-        "<span style='color:#f82249'>*تنوية،</span>  سيتم مد قبول ملخصات الابحاث الى <span class='change-color'>١١ ديسمبر ٢٠٢٠</span>",
+           "<span style='color:#f82249'>*تنوية،</span>  تم تأجيل موعد إرسال إشعار قبول البحث نهائياً الى يوم  <span style='color:#f82249'>21 فبراير ٢٠٢١</span/span>",
         /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> فندق تريومف - التجمع الخامس - القاهره - مصر",
         "<i class='fa fa-calendar' style='color:#f82249'></i> من السبت الي الاثنين 12- 14 ديسمبر 2020",

@@ -803,8 +803,8 @@
                 <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020 <a href="/Paper Template Download.docx"> [Paper Template Download] </a> <br/> For submission, send mail to <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 11 Dec. 2020</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 17 Dec. 2020</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 30 Jan. 2021</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 21 Feb. 2021</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
             </ul>
           </div>
@@ -816,6 +816,8 @@
         <div class="note">
           <ul class="fa-ul ml-0">
             <li>
+                <p style="color: darkred;font-weight: bold;"><span><i class="fa fa-exclamation-triangle"></i></span> In light of the worldwide spread of the second wave of Coronavirus (COVID-19), and for the safety of all the attendees the Organizing Committee of AEIC 2021 has decided to host the Conference on a virtual platform. 
+                                                                            With best regards and hopes that you remain healthy and safe in these challenging times.</p>
               <p><span><i class="fa fa-exclamation-triangle"></i></span> Note to the participating engineers, it is necessary to write the code of the specialization through which the research is to be published.</p>
               <p><span><i class="fa fa-exclamation-triangle"></i></span> Organizing committee has been decided to publish all papers (or selected outstanding papers) of the conference in the special issue, JAUES Open Access Journal: Journal of Al-Azhar University Engineering Sector, which is part of the Egyptian Knowledge Bank (EKB) and indexed on Supreme Council of Universities (SCU).</p>
               <p><span><i class="fa fa-exclamation-triangle"></i></span> For the safety of all participants, the organizing committee has decided to broadcast the conference on ZOOM virtual platform for those who have difficulties to attend.</p>
@@ -1349,7 +1351,7 @@
                       <li><i class="fa-li fa fa-arrow-right"></i>Deadline for abstract submission: 11 Dec. 2020</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 17 Dec. 2020</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 23 Jan. 2021</li>
-                      <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 13 Feb. 2021</li>
+                      <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 21 Feb. 2021</li>
                       <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
                     </ul>
                   </div>
@@ -1794,7 +1796,7 @@
   <script>
     var type = new Typed('.type', {
       strings: [
-        "<span style='color:#f82249'>*Note</span> the acceptance of abstracts will be extended until <span class='change-color'>December 11, 2020</span>",
+        "<span style='color:#f82249'>*Note</span> The announcement of full paper acceptance  will be extended until <span style='color:#f82249'>February 21, 2021</span>",
         /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> Triumph Hotel, 5th Settlement, Cairo, Egypt",
         "<i class='fa fa-calendar' style='color:#f82249'></i> Saturday to Monday 12-14 December, 2020",
