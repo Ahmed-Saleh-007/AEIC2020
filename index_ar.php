@@ -693,19 +693,22 @@
           <p>هنا بعض المتحدثون في المؤتمر</p>
         </div>
 
-        <h2 class="text-center">قريبا ...</h2>
-        <div class="row" style="display: none;">
+        <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="speaker">
               <img src="img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Brenden Legros</a></h3>
-                <p>Quas alias incidunt</p>
+                <h3><a href="">Prof. Dr. Ashraf M. Salama</a></h3>
+                <p>Professor of architecture engineering</p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.strath.ac.uk/staff/salamaashrafprof/">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
+                  <!--
                   <a href=""><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-google-plus"></i></a>
                   <a href=""><i class="fa fa-linkedin"></i></a>
+                  -->
                 </div>
               </div>
             </div>
@@ -714,13 +717,12 @@
             <div class="speaker">
               <img src="img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Hubert Hirthe</a></h3>
-                <p>Consequuntur odio aut</p>
+                <h3><a href="">Prof. Dr. Tom Sanchez earned</a></h3>
+                <p>Professor of Urban Affairs and Planning</p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://spia.vt.edu/people/faculty/sanchez.html">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
                 </div>
               </div>
             </div>
@@ -729,13 +731,12 @@
             <div class="speaker">
               <img src="img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Cole Emmerich</a></h3>
-                <p>Fugiat laborum et</p>
+                <h3><a href="">Prof. Dr.-Ing. Harald Weber</a></h3>
+                <p>Professor of Electrical Engineering</p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://www.iee.uni-rostock.de/en/chairs/">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
                 </div>
               </div>
             </div>
@@ -744,13 +745,12 @@
             <div class="speaker">
               <img src="img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
-                <p>Debitis iure vero</p>
+                <h3><a href="">Dr. Salama Ikki</a></h3>
+                <p>Professor of</p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
                 </div>
               </div>
             </div>
@@ -759,13 +759,12 @@
             <div class="speaker">
               <img src="img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
-                <p>Qui molestiae natus</p>
+                <h3><a href="">Prof. Dr. Naser El-Sheimy</a></h3>
+                <p>Professor of Civil engineering </p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
                 </div>
               </div>
             </div>
@@ -774,13 +773,12 @@
             <div class="speaker">
               <img src="img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Willow Trantow</a></h3>
-                <p>Non autem dicta</p>
+                <h3><a href="">Prof. Dr. Mohamed A. Meguid</a></h3>
+                <p>Professor of Civil engineering </p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://www.mcgill.ca/civil/mohamed-meguid">
+                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                  </a>
                 </div>
               </div>
             </div>
