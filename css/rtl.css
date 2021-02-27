@@ -52,6 +52,10 @@ html,body ,h1,h2,h3,h4,h5,h6, a {
   float: left;
 }
 
+#speakers .speaker .details h3 a{
+  font-family: "Raleway", sans-serif !important; 
+}
+
 #faq #faq-list a i {
   right: auto;
   left: 0;

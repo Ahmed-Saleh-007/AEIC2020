@@ -695,13 +695,7 @@
               <div class="details">
                 <h3><a href="https://www.strath.ac.uk/staff/salamaashrafprof/">Prof. Dr. Ashraf M. Salama</a></h3>
                 <p>Professor of architecture engineering</p>
-                <div class="social">
-                  <a href="https://www.strath.ac.uk/staff/salamaashrafprof/">
-                    <i class="fa fa-globe"></i> 
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Strathclyde, UK</div>
               </div>
             </div>
           </div>
@@ -711,13 +705,7 @@
               <div class="details">
                 <h3><a href="https://spia.vt.edu/people/faculty/sanchez.html">Prof. Dr. Tom Sanchez earned</a></h3>
                 <p>Professor of Urban Affairs and Planning</p>
-                <div class="social">
-                  <a href="https://spia.vt.edu/people/faculty/sanchez.html">
-                    <i class="fa fa-globe"></i>
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Virginia Tech, USA</div>
               </div>
             </div>
           </div>
@@ -727,13 +715,7 @@
               <div class="details">
                 <h3><a href="https://www.iee.uni-rostock.de/en/chairs/">Prof. Dr.-Ing. Harald Weber</a></h3>
                 <p>Professor of Electrical Engineering</p>
-                <div class="social">
-                  <a href="https://www.iee.uni-rostock.de/en/chairs/">
-                    <i class="fa fa-globe"></i>
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Rostock, Germany</div>
               </div>
             </div>
           </div>
@@ -743,13 +725,7 @@
               <div class="details">
                 <h3><a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">Dr. Salama Ikki</a></h3>
                 <p>Professor of Electrical Engineering </p>
-                <div class="social">
-                  <a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">
-                    <i class="fa fa-globe"></i>
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Lakehead, Canada</div>
               </div>
             </div>
           </div>
@@ -759,13 +735,7 @@
               <div class="details">
                 <h3><a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">Prof. Dr. Naser El-Sheimy</a></h3>
                 <p>Professor of Civil engineering </p>
-                <div class="social">
-                  <a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">
-                    <i class="fa fa-globe"></i>
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Calgary, Canada</div>
               </div>
             </div>
           </div>
@@ -775,13 +745,7 @@
               <div class="details">
                 <h3><a href="https://www.mcgill.ca/civil/mohamed-meguid">Prof. Dr. Mohamed A. Meguid</a></h3>
                 <p>Professor of Civil engineering </p>
-                <div class="social">
-                  <a href="https://www.mcgill.ca/civil/mohamed-meguid">
-                    <i class="fa fa-globe"></i>
-                  </a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> McGill, Canada</div>
               </div>
             </div>
           </div>
@@ -791,11 +755,7 @@
               <div class="details">
                 <h3><a href="">Prof. Dr. Hussean Abbas</a></h3>
                 <p>Professor of Civil engineering </p>
-                <div class="social">
-                  <a href=""><i class="fa fa-globe"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                </div>
+                <div class="university"><i class="fa fa-university"></i> Al-Azhar, Egypt</div>
               </div>
             </div>
           </div>

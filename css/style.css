@@ -898,6 +898,41 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 5px;
 }
 
+#speakers .speaker .details h3 a {
+  position: relative;
+}
+
+#speakers .speaker .details h3 a:before, #speakers .speaker .details h3 a:after{
+	content: '';
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	animation: border-flash 2s linear infinite;
+}
+
+#speakers .speaker .details h3 a:before{
+	top: -2.5%;
+	left: -1%;
+	border-top: 3px solid white;
+	border-left: 3px solid white;	
+}
+
+#speakers .speaker .details h3 a:after{
+	bottom: -2.5%;
+	right: -1%;
+	border-bottom: 3px solid white;
+	border-right: 3px solid white;
+}
+
+@keyframes border-flash {
+  0% {
+    border-color: #fff;
+  }
+  50% {
+    border-color: #f82249;
+  }
+}
+
 #speakers .speaker .details p {
   color: #fff;
   font-size: 15px;
@@ -908,6 +943,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #speakers .speaker .details .social {
   height: 30px;
   font-size: 20px;
+}
+
+#speakers .speaker .details .university {
+  height: 30px;
+  font-size: 16px;
+  color: #fff;
 }
 
 #speakers .speaker .details a {
