@@ -907,10 +907,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #speakers .speaker .details .social {
   height: 30px;
+  font-size: 20px;
 }
 
 #speakers .speaker .details a {
   color: #fff;
+  padding: 0 10px;
 }
 
 #speakers .speaker .details a:hover {

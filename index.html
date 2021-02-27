@@ -693,17 +693,14 @@
             <div class="speaker">
               <img src="img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Ashraf M. Salama</a></h3>
+                <h3><a href="https://www.strath.ac.uk/staff/salamaashrafprof/">Prof. Dr. Ashraf M. Salama</a></h3>
                 <p>Professor of architecture engineering</p>
                 <div class="social">
                   <a href="https://www.strath.ac.uk/staff/salamaashrafprof/">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i> 
                   </a>
-                  <!--
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
                   <a href=""><i class="fa fa-linkedin"></i></a>
-                  -->
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -712,12 +709,14 @@
             <div class="speaker">
               <img src="img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Tom Sanchez earned</a></h3>
+                <h3><a href="https://spia.vt.edu/people/faculty/sanchez.html">Prof. Dr. Tom Sanchez earned</a></h3>
                 <p>Professor of Urban Affairs and Planning</p>
                 <div class="social">
                   <a href="https://spia.vt.edu/people/faculty/sanchez.html">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -726,12 +725,14 @@
             <div class="speaker">
               <img src="img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr.-Ing. Harald Weber</a></h3>
+                <h3><a href="https://www.iee.uni-rostock.de/en/chairs/">Prof. Dr.-Ing. Harald Weber</a></h3>
                 <p>Professor of Electrical Engineering</p>
                 <div class="social">
                   <a href="https://www.iee.uni-rostock.de/en/chairs/">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -740,12 +741,14 @@
             <div class="speaker">
               <img src="img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="">Dr. Salama Ikki</a></h3>
-                <p>Professor of</p>
+                <h3><a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">Dr. Salama Ikki</a></h3>
+                <p>Professor of Electrical Engineering </p>
                 <div class="social">
                   <a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -754,12 +757,14 @@
             <div class="speaker">
               <img src="img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Naser El-Sheimy</a></h3>
+                <h3><a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">Prof. Dr. Naser El-Sheimy</a></h3>
                 <p>Professor of Civil engineering </p>
                 <div class="social">
                   <a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -768,12 +773,28 @@
             <div class="speaker">
               <img src="img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Mohamed A. Meguid</a></h3>
+                <h3><a href="https://www.mcgill.ca/civil/mohamed-meguid">Prof. Dr. Mohamed A. Meguid</a></h3>
                 <p>Professor of Civil engineering </p>
                 <div class="social">
                   <a href="https://www.mcgill.ca/civil/mohamed-meguid">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/7.jpg" alt="Speaker 7" class="img-fluid">
+              <div class="details">
+                <h3><a href="">Prof. Dr. Hussean Abbas</a></h3>
+                <p>Professor of Civil engineering </p>
+                <div class="social">
+                  <a href=""><i class="fa fa-globe"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -812,14 +833,22 @@
         </div>
 
         <div class="note">
-          <ul class="fa-ul ml-0">
-            <li>
-                <p style="color: darkred;font-weight: bold;"><span><i class="fa fa-exclamation-triangle"></i></span> In light of the worldwide spread of the second wave of Coronavirus (COVID-19), and for the safety of all the attendees the Organizing Committee of AEIC 2021 has decided to host the Conference on a virtual platform. 
-                                                                            With best regards and hopes that you remain healthy and safe in these challenging times.</p>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> Note to the participating engineers, it is necessary to write the code of the specialization through which the research is to be published.</p>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> Organizing committee has been decided to publish all papers (or selected outstanding papers) of the conference in the special issue, JAUES Open Access Journal: Journal of Al-Azhar University Engineering Sector, which is part of the Egyptian Knowledge Bank (EKB) and indexed on Supreme Council of Universities (SCU).</p>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> For the safety of all participants, the organizing committee has decided to broadcast the conference on ZOOM virtual platform for those who have difficulties to attend.</p>
-
+          <ul class="fa-ul mb-0" style="text-align: justify;">
+            <li class="mb-2" style="color: darkred; font-weight: bold;">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              In light of the worldwide spread of the second wave of Coronavirus (COVID-19), and for the safety of all the attendees the Organizing Committee of AEIC 2021 has decided to host the Conference on a virtual platform. With best regards and hopes that you remain healthy and safe in these challenging times.
+            </li>
+            <li class="mb-2">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              Note to the participating engineers, it is necessary to write the code of the specialization through which the research is to be published.
+            </li>
+            <li class="mb-2">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              Organizing committee has been decided to publish all papers (or selected outstanding papers) of the conference in the special issue, JAUES Open Access Journal: Journal of Al-Azhar University Engineering Sector, which is part of the Egyptian Knowledge Bank (EKB) and indexed on Supreme Council of Universities (SCU).
+            </li>
+            <li class="mb-2">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              For the safety of all participants, the organizing committee has decided to broadcast the conference on ZOOM virtual platform for those who have difficulties to attend.
             </li>
           </ul>
 

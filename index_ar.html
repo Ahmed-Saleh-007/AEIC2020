@@ -698,17 +698,14 @@
             <div class="speaker">
               <img src="img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Ashraf M. Salama</a></h3>
+                <h3><a href="https://www.strath.ac.uk/staff/salamaashrafprof/">Prof. Dr. Ashraf M. Salama</a></h3>
                 <p>Professor of architecture engineering</p>
                 <div class="social">
                   <a href="https://www.strath.ac.uk/staff/salamaashrafprof/">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i> 
                   </a>
-                  <!--
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
                   <a href=""><i class="fa fa-linkedin"></i></a>
-                  -->
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -717,12 +714,14 @@
             <div class="speaker">
               <img src="img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Tom Sanchez earned</a></h3>
+                <h3><a href="https://spia.vt.edu/people/faculty/sanchez.html">Prof. Dr. Tom Sanchez earned</a></h3>
                 <p>Professor of Urban Affairs and Planning</p>
                 <div class="social">
                   <a href="https://spia.vt.edu/people/faculty/sanchez.html">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -731,12 +730,14 @@
             <div class="speaker">
               <img src="img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr.-Ing. Harald Weber</a></h3>
+                <h3><a href="https://www.iee.uni-rostock.de/en/chairs/">Prof. Dr.-Ing. Harald Weber</a></h3>
                 <p>Professor of Electrical Engineering</p>
                 <div class="social">
                   <a href="https://www.iee.uni-rostock.de/en/chairs/">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -745,12 +746,14 @@
             <div class="speaker">
               <img src="img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="">Dr. Salama Ikki</a></h3>
-                <p>Professor of</p>
+                <h3><a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">Dr. Salama Ikki</a></h3>
+                <p>Professor of Electrical Engineering </p>
                 <div class="social">
                   <a href="https://www.lakeheadu.ca/users/I/sikki/node/22507">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -759,12 +762,14 @@
             <div class="speaker">
               <img src="img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Naser El-Sheimy</a></h3>
+                <h3><a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">Prof. Dr. Naser El-Sheimy</a></h3>
                 <p>Professor of Civil engineering </p>
                 <div class="social">
                   <a href="https://schulich.ucalgary.ca/contacts/naser-el-sheimy">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -773,12 +778,28 @@
             <div class="speaker">
               <img src="img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="">Prof. Dr. Mohamed A. Meguid</a></h3>
+                <h3><a href="https://www.mcgill.ca/civil/mohamed-meguid">Prof. Dr. Mohamed A. Meguid</a></h3>
                 <p>Professor of Civil engineering </p>
                 <div class="social">
                   <a href="https://www.mcgill.ca/civil/mohamed-meguid">
-                    <i class="fa fa-globe" style="font-size: 20px;"></i>
+                    <i class="fa fa-globe"></i>
                   </a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/7.jpg" alt="Speaker 7" class="img-fluid">
+              <div class="details">
+                <h3><a href="">Prof. Dr. Hussean Abbas</a></h3>
+                <p>Professor of Civil engineering </p>
+                <div class="social">
+                  <a href=""><i class="fa fa-globe"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
                 </div>
               </div>
             </div>
@@ -819,15 +840,23 @@
         </div>
 
         <div class="note">
-          <ul class="fa-ul pr-0">
-            <li>
-      <p style="color: darkred;font-weight: bold;"><span><i class="fa fa-exclamation-triangle"></i></span> في ظل الانتشار العالمي للموجة الثانية من فيروس كورونا (COVID-19) ، ومن أجل سلامة جميع الحاضرين ، قررت اللجنة المنظمة لـ AEIC 2021 استضافة المؤتمر على منصة افتراضية.
-مع أطيب التحيات والآمال أن تكون  آمنا وبصحة جيدة في هذه الأوقات الصعبة.</p>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> قررت اللجنة المنظمة نشر كل الابحاث المقبولة (أو عدد من الابحاث المميزة) في المؤتمر في اصدار خاص من دورية مجلة القطاع الهندسي لجامعة الازهر المدرجة تحت بنك المعرفة المصري والمصنفة وفقاً لتقييم المجلس الاعلى للجامعات.</p>
-              <p><span><i class="fa fa-exclamation-triangle"></i></span> كإجراء احترازي قررت الجنة التنظيمية للمؤتمر بث جميع جلسات المؤتمر للمشاركين عبر تطبيق زووم وذلك لمن سيواجهه اي صعوبات في الحضور.</p>
+          <ul class="fa-ul mb-0" style="text-align: justify;">
+            <li class="mb-2" style="color: darkred; font-weight: bold;">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              في ظل الانتشار العالمي للموجة الثانية من فيروس كورونا (COVID-19) ، ومن أجل سلامة جميع الحاضرين ، قررت اللجنة المنظمة لـ AEIC 2021 استضافة المؤتمر على منصة افتراضية.
+              مع أطيب التحيات والآمال أن تكون  آمنا وبصحة جيدة في هذه الأوقات الصعبة.
+            </li>
+            <li class="mb-2">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              قررت اللجنة المنظمة نشر كل الابحاث المقبولة (أو عدد من الابحاث المميزة) في المؤتمر في اصدار خاص من دورية مجلة القطاع الهندسي لجامعة الازهر المدرجة تحت بنك المعرفة المصري والمصنفة وفقاً لتقييم المجلس الاعلى للجامعات.
+            </li>
+            <li class="mb-2">
+              <i class="fa-li fa fa-exclamation-triangle"></i>
+              كإجراء احترازي قررت الجنة التنظيمية للمؤتمر بث جميع جلسات المؤتمر للمشاركين عبر تطبيق زووم وذلك لمن سيواجهه اي صعوبات في الحضور.
             </li>
           </ul>
-        </div>  
+
+        </div>
 
         <div style="display: none;">
           <ul class="nav nav-tabs" role="tablist">
