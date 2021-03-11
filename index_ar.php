@@ -60,7 +60,7 @@
           <li><a href="#committees">اللجان</a></li>
           <li><a href="#speakers">المتحدثون</a></li>
           <li><a href="#schedule">البرنامج</a></li>
-          <li><a href="#venue">المكان</a></li>
+ <!--         <li><a href="#venue">المكان</a></li>-->
           <li><a href="#hotels">الفنادق</a></li>
           <li><a href="#gallery">الصور</a></li>
           <li><a href="#supporters">الرعاه</a></li>
@@ -113,7 +113,7 @@
         <div class="row">
           <div class="col-md-4">
             <img class="mb-4" src="img/conf-home2.png" alt="" title="">
-            <h6><i class='fa fa-map-marker'></i> فندق تريومف ليكشري - التجمع الخامس - القاهره </h6>
+       <!--     <h6><i class='fa fa-map-marker'></i> فندق تريومف ليكشري - التجمع الخامس - القاهره </h6>-->
             <h6><i class='fa fa-calendar'></i> من السبت إلي الإثنين 13-15 مارس 2021</h6>
           </div>
           <div class="col-md-8">
@@ -764,6 +764,16 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/8.jpg" alt="Speaker 8" class="img-fluid">
+              <div class="details">
+                <h3><a href="">Prof. Dr. Mohamed Abdelaziz</a></h3>
+                <p>Vice Dean of Graduate Studies & Researchs </p>
+                <div class="university"><i class="fa fa-university"></i> Al-Azhar, Egypt</div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -776,12 +786,14 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>برنامج المؤتمر</h2>
-          <p>هنا البرنامج التقصيلي للمؤتمر</p>
+       >
         </div>
-
-        <h4 class="">سيتم رفع برنامج المؤتمر فيما بعد</h4>
+ <h3 style="text-align: center;">
+            <a style="font-weight:bold;text-align:center;" href="/AEIC 2021 Program.pdf">إظهار برنامج المؤتمر</h3>
+            <p></p>
         <div class="row">
           <div class="col-md-6">
+              
             <h5>هنا بعض التواريخ الهامه التي يجب معرفتها</h5>
             <ul class="fa-ul">
               <li><i class="fa-li fa fa-arrow-left"></i>البدء إرسال الملخصات 15 أغسطس 2020 <a href="/نموذج ورقة بحثية باللغة العربية.docx">[تحميل نموذج ورقة البحث]</a> <br/>
@@ -791,7 +803,7 @@
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول الملخصات 17 ديسمبر 2020</li>
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لتسليم البحث كاملاً 30 يناير 2021</li>
               <li><i class="fa-li fa fa-arrow-left"></i>آخر موعد لإرسال إشعار قبول البحث نهائياً 21 فبراير 2021</li>
-              <li><i class="fa-li fa fa-arrow-left"></i> موعد انعقاد المؤتمر 13-15 مارس 2021</li>
+              <li><i class="fa-li fa fa-arrow-left"></i> موعد انعقاد المؤتمر 13-15 مارس 2021 <a href="/AEIC 2021 Program.pdf"> [تحميل البرنامج] </a></li>
             </ul>
           </div>
           <div class="col-md-6" style="display: flex; justify-content: center; align-items: center;">
@@ -1069,7 +1081,7 @@
 
     <!--==========================
       Venue Section
-    ============================-->
+    
     <section id="venue" class="wow fadeInUp sblock">
 
       <div class="container-fluid">
@@ -1135,7 +1147,7 @@
       </div>
 
     </section>
-
+ ============================-->
     <!--==========================
       Hotels Section
     ============================-->
@@ -1789,7 +1801,7 @@
   <script>
     var type = new Typed('.type', {
       strings: [
-           "<span style='color:#f82249'>*تنوية،</span>  تم تأجيل موعد إرسال إشعار قبول البحث نهائياً الى يوم  <span style='color:#f82249'>21 فبراير ٢٠٢١</span/span>",
+           "<a href='AEIC 2021 Program.pdf'> إضغط لتحميل برنامج المؤتمر </a>",
         /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> فندق تريومف - التجمع الخامس - القاهره - مصر",
         "<i class='fa fa-calendar' style='color:#f82249'></i> من السبت الي الاثنين 12- 14 ديسمبر 2020",

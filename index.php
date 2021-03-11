@@ -55,7 +55,7 @@
           <li><a href="#committees">Committees</a></li>
           <li><a href="#speakers">Speakers</a></li>
           <li><a href="#schedule">Schedule</a></li>
-          <li><a href="#venue">Venue</a></li>
+         <!-- <li><a href="#venue">Venue</a></li> -->
           <li><a href="#hotels">Hotels</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
@@ -759,6 +759,16 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/8.jpg" alt="Speaker 8" class="img-fluid">
+              <div class="details">
+                <h3><a href="">Prof. Dr. Mohamed Abdelaziz</a></h3>
+                <p>Vice Dean of Graduate Studies & Researchs </p>
+                <div class="university"><i class="fa fa-university"></i> Al-Azhar, Egypt</div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -771,12 +781,15 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>Conference Schedule</h2>
-          <p>Here is our conference schedule</p>
+         <!-- <p>Here is our conference schedule</p>-->
         </div>
 
-        <h4 class="">The schedule will be uplouded later</h4>
+        <h3 style="text-align: center;">
+            <a style="font-weight:bold;text-align:center;" href="/AEIC 2021 Program.pdf">Show the program of the Conference</h3>
+           
         <div class="row">
           <div class="col-lg-6 col-md-8">
+               <p></p>
             <h5>Here important dates you should know: </h5>
             <ul class="fa-ul">
                 <li><i class="fa-li fa fa-arrow-right"></i>Call for abstract: 15 Aug. 2020 <a href="/Paper Template Download.docx"> [Paper Template Download] </a> <br/> For submission, send mail to <a href="mailto:aeic2020@azhar.edu.eg">aeic2020@azhar.edu.eg</a></li>
@@ -784,7 +797,7 @@
                 <li><i class="fa-li fa fa-arrow-right"></i>Abstract acceptance notification: 17 Dec. 2020</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Deadline for final paper submission: 30 Jan. 2021</li>
                 <li><i class="fa-li fa fa-arrow-right"></i>Announcement of full paper acceptance: 21 Feb. 2021</li>
-                <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021</li>
+                <li><i class="fa-li fa fa-arrow-right"></i>Conference dates: 13-15 Mar. 2021 <a href="/AEIC 2021 Program.pdf"> [Program Download] </a></li>
             </ul>
           </div>
           <div class="col-lg-6 col-md-4" style="display: flex; justify-content: center; align-items: center;">
@@ -1065,7 +1078,7 @@
 
     <!--==========================
       Venue Section
-    ============================-->
+  
     <section id="venue" class="wow fadeInUp sblock">
 
       <div class="container-fluid">
@@ -1131,7 +1144,7 @@
       </div>
 
     </section>
-
+  ============================-->
     <!--==========================
       Hotels Section
     ============================-->
@@ -1783,7 +1796,7 @@
   <script>
     var type = new Typed('.type', {
       strings: [
-        "<span style='color:#f82249'>*Note</span> The announcement of full paper acceptance  will be extended until <span style='color:#f82249'>February 21, 2021</span>",
+        "<a href='AEIC 2021 Program.pdf'> Click to download the conference  program </a>",
         /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> Triumph Hotel, 5th Settlement, Cairo, Egypt",
         "<i class='fa fa-calendar' style='color:#f82249'></i> Saturday to Monday 12-14 December, 2020",
@@ -1797,7 +1810,7 @@
       // backspacing speed
       backSpeed: 0,
       // time before backspacing
-      backDelay: 5000,
+      backDelay: 10000,
       // loop
       loop: true,
       // false = infinite
