@@ -40,6 +40,13 @@
 
 <body>
 
+    <!--==========================
+    go up conference
+  ============================-->
+
+  <a href="https://stream.dx-labs.com" target="_blank" class="go-to-conference">go to conference</a>
+
+
   <!--==========================
     Header
   ============================-->
@@ -60,8 +67,8 @@
           <li><a href="#committees">اللجان</a></li>
           <li><a href="#speakers">المتحدثون</a></li>
           <li><a href="#schedule">البرنامج</a></li>
- <!--         <li><a href="#venue">المكان</a></li>-->
-          <li><a href="#hotels">الفنادق</a></li>
+          <!--<li><a href="#venue">المكان</a></li>-->
+          <!--<li><a href="#hotels">الفنادق</a></li>-->
           <li><a href="#gallery">الصور</a></li>
           <li><a href="#supporters">الرعاه</a></li>
           <li><a href="#faq">الاسئله</a></li>
@@ -786,11 +793,8 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h2>برنامج المؤتمر</h2>
-       >
         </div>
- <h3 style="text-align: center;">
-            <a style="font-weight:bold;text-align:center;" href="/AEIC 2021 Program.pdf">إظهار برنامج المؤتمر</h3>
-            <p></p>
+
         <div class="row">
           <div class="col-md-6">
               
@@ -809,6 +813,12 @@
           <div class="col-md-6" style="display: flex; justify-content: center; align-items: center;">
             <img src="img/calendar.png" alt="" style="height: 210px;">
           </div>
+        </div>
+
+        <div class="note">
+          <h3 class="my-3 conference-program" style="text-align: center;">
+            <a href="/AEIC 2021 Program.pdf">إظهار برنامج المؤتمر</a>
+          </h3>
         </div>
 
         <div class="note">
@@ -1150,7 +1160,7 @@
  ============================-->
     <!--==========================
       Hotels Section
-    ============================-->
+    
     <section id="hotels" class="section-with-bg wow fadeInUp sblock">
 
       <div class="container">
@@ -1216,6 +1226,7 @@
       </div>
 
     </section>
+    ============================-->
 
     <!--==========================
       Gallery Section
@@ -1739,11 +1750,14 @@
             </p>
 
             <div class="social-links">
+              <a href="https://www.facebook.com/Aeic2021" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+              <!--
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              -->
             </div>
 
           </div>
@@ -1801,7 +1815,7 @@
   <script>
     var type = new Typed('.type', {
       strings: [
-           "<a href='AEIC 2021 Program.pdf'> إضغط لتحميل برنامج المؤتمر </a>",
+           "<i class='fa fa-download' style='color:#f82249'></i> <a href='AEIC 2021 Program.pdf'> إضغط لتحميل برنامج المؤتمر </a>",
         /*
         "<i class='fa fa-map-marker' style='color:#f82249'></i> فندق تريومف - التجمع الخامس - القاهره - مصر",
         "<i class='fa fa-calendar' style='color:#f82249'></i> من السبت الي الاثنين 12- 14 ديسمبر 2020",

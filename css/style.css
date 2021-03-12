@@ -75,6 +75,41 @@ h6 {
   background: #fff url("../img/preloader.svg") no-repeat center center;
 }
 
+/* go to confernece */
+
+.go-to-conference {
+  position: fixed;
+  display: none;
+  background: #f82249;
+  color: #fff;
+  width: 180px;
+  height: 40px;
+  text-align: center;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  top: 150px;
+  left: 0 !important;
+  padding-top: 6px;
+  font-size: 18px;
+  transition: background 0.5s ease-in-out;
+  z-index: 999;
+}
+
+.go-to-conference i {
+  margin-left: 6px;
+}
+
+.go-to-conference:focus {
+  background: #e0072f;
+  color: #fff;
+  outline: none;
+}
+
+.go-to-conference:hover {
+  background: #e0072f;
+  color: #fff;
+}
+
 /* Back to top button */
 
 .back-to-top {
@@ -1026,6 +1061,34 @@ body.mobile-nav-active #mobile-nav-toggle {
   90% 
   { 
     border: 1px solid #112363;
+  }
+}
+
+@media(min-width: 992px) {
+  .note .conference-program a{
+    position: relative;
+  }
+  
+  .note .conference-program a::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 150px;
+    height: 3px;
+    background: #f82249;
+    left: calc(-5% - 150px);
+    top: 16px;
+  }
+  
+  .note .conference-program a::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 150px;
+    height: 3px;
+    background: #f82249;
+    right: calc(-5% - 150px);
+    top: 16px;
   }
 }
 

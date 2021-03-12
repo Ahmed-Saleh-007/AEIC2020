@@ -214,6 +214,7 @@ const second = 1000,
       day = hour * 24;
 
 let countDown = new Date('mar 13, 2021 08:00:00').getTime(),
+//let countDown = new Date('mar 12, 2021 03:27:00').getTime(),
     x = setInterval(function() {    
 
       let now = new Date().getTime(),
@@ -227,7 +228,14 @@ let countDown = new Date('mar 13, 2021 08:00:00').getTime(),
       // If the count down is over, write some text 
       if (distance < 0) {
           clearInterval(x);
-          document.getElementById("count_down").innerHTML = "<p style='margin-bottom:10px; color:#f82249'>EXPIRED</p>";
+          document.getElementById("count_down").innerHTML = `
+          <p style='margin-bottom:10px; font-size:30px'>
+            <a style='color:#fff;' href='https://stream.dx-labs.com' target='_blank'>
+              Go To Conference Meeting 
+              <i class='fa fa-arrow-right' style='color:#f82249; margin-left:10px; margin-top:5px'></i>
+            </a>
+          </p>`;
+          document.querySelector(".go-to-conference").style.display = "block";
       }
 
     }, second)

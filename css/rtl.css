@@ -27,6 +27,17 @@ html,body ,h1,h2,h3,h4,h5,h6, a {
   right: 10px;
 }
 
+.go-to-conference i {
+
+  margin-left: auto;
+  margin-right: 6px;
+}
+
+.note .conference-program a::after,
+.note .conference-program a::before {
+  top: 30px;
+}
+
 .owl-stage-outer {
   position:relative;
   overflow:hidden;
